@@ -1,0 +1,95 @@
+**PLANO ESTRATÉGICO INTEGRAL – CASO DEBORAH EL ALAM SBEGHEN x AMAZON SERVIÇOS DE VAREJO DO BRASIL LTDA.**
+
+---
+
+### I. OBJETIVO
+
+Unificar, sistematizar e consolidar todas as alegações, documentos, pedidos e argumentos estratégicos que a autora poderá apresentar em juízo, visando:
+
+* Reconhecimento da nulidade da demissão;
+* Indenização integral por danos morais, existenciais e materiais;
+* Levantamento do sigilo judicial e acesso integral aos autos;
+* Produção de provas essenciais e quebra de sigilo de registros internos;
+* Proteção dos dados da autora com base na LGPD;
+* Investigação sobre a conduta da empresa e tentativa de manipulação probatória.
+
+---
+
+### II. PRINCIPAIS FRAGILIDADES DA RÉ (AMAZON)
+
+1. **Exame demissional não realizado**, em violação ao art. 168, II da CLT.
+2. **Bloqueio de acesso imediato aos sistemas internos** após demissão, impedindo a recuperação de provas, registros e apontamentos na agenda interna (Amazon Connect / CSC).
+3. **Monitoramento por áudio e vídeo sem consentimento individualizado**, em violação à LGPD (arts. 7º, 11 e 42).
+4. **Ausência de advertência ou procedimento disciplinar progressivo**, mesmo diante de supostos desvios de conduta.
+5. **Contradições da testemunha João Eduardo Zara** quanto ao prazo de acesso ao AtoZ e conhecimento sobre a cirurgia.
+6. **Treinamentos e termos de compliance entregues em inglês, sem assinatura da autora**, em descumprimento aos princípios da informação e boa-fé objetiva.
+7. **Ocultação de sistemas reais utilizados (Chime, Amazon Connect, agenda interna)** com base em cláusulas de confidencialidade.
+8. **Narrativa subjetiva sobre conduta “fora do tom”**, sem parâmetros definidos ou provas concretas.
+
+---
+
+### III. PEDIDOS PROCESSUAIS E PROVAS
+
+**1. Substituição de representação jurídica** e prorrogação de prazo (CLT, art. 791).
+**2. Juntada de documentos complementares:**
+
+* E-mail de demissão;
+* Print do WhatsApp e Chime;
+* Nota fiscal de isolamento acústico;
+* Relatórios médicos, receitas, atestados (SUS);
+* Print ou printscreen da agenda interna com registro de cirurgia;
+* Prova de contato com colegas e superiores sobre o afastamento.
+
+**3. Levantamento de sigilo processual** (CPC, art. 189, I e III).
+**4. Inversão do ônus da prova** (CPC, art. 373, §1º e CLT, art. 818).
+**5. Quebra de sigilo digital dos seguintes sistemas:**
+
+* Amazon Chime (conversas com Zara, William, Wellington);
+* Amazon Connect / agenda interna e apontamentos futuros;
+* CSC / plataforma de apontamento de horários e relatórios.
+
+**6. Produção de prova pericial:**
+
+* Técnica: para auditar logs, bloqueios de acesso e sistemas de rastreamento;
+* Psicológica: laudo da Dra. Vera Lúcia Biscuola sobre nexo causal com demissão.
+
+---
+
+### IV. INDICAÇÃO DE TESTEMUNHAS RELEVANTES
+
+1. **Wellington Silva** – supervisor imediato, reconheceu a agenda interna.
+2. **William Pizzaneli** – avaliador de desempenho e receptor de feedbacks positivos.
+3. **Colega autista** – receptora da retratação da autora, demonstra ausência de ofensa.
+4. **João Eduardo Zara** – testemunha contraditória, peça-chave para quebra de narrativa.
+5. **Dra. Vera Biscuola** – psicóloga organizacional, perita indicada.
+6. **Brian Calkins** – ex-empregador internacional, valida perfil profissional da autora.
+7. **Ney Grando** – mestre renomado que pode avaliar conduta e perfil da autora.
+
+---
+
+### V. ARGUMENTOS TÉCNICO-JURÍDICOS CENTRAIS
+
+* CLT, art. 168, II – exame demissional obrigatório.
+* CLT, art. 818 e CPC, art. 373, §1º – inversão do ônus da prova.
+* CPC, art. 189 – publicidade e interesse social.
+* LGPD, arts. 7º, 11, 18 e 42 – dados sensíveis e consentimento.
+* CDC, art. 6º, III – direito à informação clara e adequada.
+* STF, ADI 5766 – proteção da parte hipossuficiente.
+* Súmula 443 do TST – presunção de discriminação em dispensa de trabalhador adoecido.
+
+---
+
+### VI. AÇÕES FUTURAS
+
+* Protocolar petição de prorrogação de prazo e substituição de representação;
+* Apresentar manifestação com todos os pedidos listados acima;
+* Anexar provas materiais e médicas;
+* Solicitar audiência específica de instrução probatória com perícia técnica;
+* Apresentar parecer técnico de psicóloga organizacional (Vera);
+* Requerer acesso integral ao PJe e desbloqueio de documentos sigilosos.
+
+---
+
+**São Paulo, \[data]**
+
+**Deborah El Alam Sbeghen – Parte Autora (jus postulandi)**
