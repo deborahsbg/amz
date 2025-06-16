@@ -1,0 +1,15 @@
+# Ignore PDF directory
+pdfs/
+
+# Common files to ignore
+*.log
+*.tmp
+.DS_Store
+
+# Node modules if you're working with any JavaScript
+node_modules/
+
+# Virtual environments for Python
+venv/
+__pycache__/
+*.py[cod]
