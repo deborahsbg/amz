@@ -1,0 +1,112 @@
+# ANÁLISE DE CLÁUSULAS CONTRATUAIS ABUSIVAS
+
+## OBJETIVO
+Este documento apresenta uma análise detalhada das cláusulas potencialmente abusivas do contrato
+de trabalho (Terms of Employment), correlacionando-as com a legislação brasileira aplicável
+e demonstrando sua relevância como fundamento para os pedidos do processo.
+
+## METODOLOGIA DE ANÁLISE
+Cada cláusula é analisada conforme os seguintes critérios:
+- Texto original da cláusula
+- Interpretação jurídica
+- Legislação brasileira violada
+- Impacto na relação de trabalho
+- Relevância para o processo
+
+## ANÁLISE DAS CLÁUSULAS
+
+### 1. CLÁUSULAS DE CONFIDENCIALIDADE EXCESSIVA
+
+**Texto original:** [Transcrição da cláusula do Terms of Employment]
+
+**Interpretação:** A cláusula impõe sigilo absoluto sobre qualquer informação da empresa, 
+incluindo condições de trabalho, remuneração e práticas internas, sem limitação temporal 
+ou material proporcional.
+
+**Legislação violada:**
+- Art. 5º, XXXIII da CF (direito à informação)
+- Art. 444 da CLT (limites à autonomia contratual)
+- Art. 422 do CC (boa-fé objetiva)
+- Art. 6º do CDC (direito à informação) aplicado analogicamente
+
+**Impacto:** Impede o trabalhador de discutir condições de trabalho, obter provas para defesa
+jurídica ou mesmo reportar irregularidades a órgãos competentes.
+
+**Relevância processual:** Fundamenta o pedido de inversão do ônus da prova, já que a própria cláusula
+impede a produção probatória pela reclamante.
+
+### 2. CLÁUSULAS DE MONITORAMENTO ELETRÔNICO
+
+**Texto original:** [Transcrição da cláusula do Terms of Employment]
+
+**Interpretação:** A cláusula autoriza monitoramento irrestrito de comunicações, dispositivos
+e atividades, incluindo períodos de descanso e uso de dispositivos pessoais.
+
+**Legislação violada:**
+- Art. 5º, X da CF (inviolabilidade da intimidade e vida privada)
+- Art. 7º, XIII da LGPD (limitação do tratamento de dados ao mínimo necessário)
+- Art. 6º, III da LGPD (princípio da necessidade)
+- Art. 223-C da CLT (direito à privacidade)
+
+**Impacto:** Submete o trabalhador a vigilância constante, mesmo em períodos de descanso,
+causando pressão psicológica e violando o direito à desconexão.
+
+**Relevância processual:** Fundamenta os pedidos relacionados à saúde mental, assédio moral
+e violação de privacidade.
+
+### 3. CLÁUSULAS DE DISPONIBILIDADE PERMANENTE
+
+**Texto original:** [Transcrição da cláusula do Terms of Employment]
+
+**Interpretação:** A cláusula impõe disponibilidade contínua para atendimento de demandas,
+sem limitação clara de horários ou previsão de compensação por sobreaviso.
+
+**Legislação violada:**
+- Art. 7º, XIII da CF (jornada de trabalho)
+- Art. 6º, parágrafo único da CLT (equiparação do teletrabalho)
+- Art. 4º da CLT (tempo à disposição)
+- Súmula 428 do TST (sobreaviso)
+
+**Impacto:** Elimina na prática os períodos de descanso, impondo disponibilidade constante
+sem remuneração correspondente.
+
+**Relevância processual:** Fundamenta os pedidos de pagamento de horas extras, sobreaviso
+e danos morais por violação ao direito à desconexão.
+
+### 4. CLÁUSULAS DE TRANSFERÊNCIA DE RESPONSABILIDADE
+
+**Texto original:** [Transcrição da cláusula do Terms of Employment]
+
+**Interpretação:** A cláusula transfere ao empregado responsabilidades próprias do empregador,
+como riscos do negócio e cumprimento de metas irrealizáveis.
+
+**Legislação violada:**
+- Art. 2º da CLT (assunção dos riscos pelo empregador)
+- Art. 927 do CC (responsabilidade civil)
+- Art. 421 do CC (função social do contrato)
+
+**Impacto:** Submete o trabalhador a pressão desproporcional, transferindo responsabilidades
+empresariais e criando ambiente de insegurança permanente.
+
+**Relevância processual:** Fundamenta os pedidos relacionados ao assédio moral organizacional
+e danos à saúde mental.
+
+## CONCLUSÕES JURÍDICAS
+
+1. As cláusulas analisadas apresentam caráter abusivo por:
+   - Violar direitos fundamentais constitucionalmente garantidos
+   - Contrariar disposições expressas da legislação trabalhista
+   - Impor ônus desproporcional ao trabalhador
+   - Dificultar ou impossibilitar o exercício de direitos básicos
+
+2. A imposição destas cláusulas caracteriza:
+   - Vício de consentimento, dada a hipossuficiência do trabalhador
+   - Exercício abusivo do poder diretivo do empregador
+   - Violação ao princípio da boa-fé objetiva nas relações contratuais
+   - Ofensa à dignidade humana do trabalhador
+
+3. Pedidos processuais justificados:
+   - Declaração de nulidade das cláusulas abusivas (art. 9º da CLT)
+   - Inversão do ônus da prova (art. 373, §1º do CPC)
+   - Condenação por danos morais (art. 223-A e seguintes da CLT)
+   - Aplicação do art. 400 do CPC (presunção de veracidade por não exibição de documento)

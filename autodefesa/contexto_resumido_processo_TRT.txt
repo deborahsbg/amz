@@ -1,0 +1,57 @@
+Resumo do Processo TRT e Referências de Documentos
+===============================================
+
+Data do resumo: 13/06/2025
+
+Este documento serve como ponto de partida para continuidade do acompanhamento do processo trabalhista no TRT, reunindo os principais fatos, argumentos, provas e caminhos de documentação já analisados e produzidos até agora.
+
+---
+
+1. **Partes e Objeto**
+   - Reclamante: Deborah
+   - Reclamada: Amazon
+   - Objeto: Reconhecimento de vínculo, análise de provas médicas, omissões da defesa, pedidos de indenização e direitos trabalhistas.
+
+2. **Principais Pontos e Argumentos**
+   - Provas médicas apresentadas e não contestadas de forma eficaz pela defesa.
+   - Omissões relevantes na contestação da Amazon, especialmente quanto à personalização de avaliação de saúde e condições de trabalho.
+   - Argumentação detalhada sobre a ausência de documentos e políticas internas específicas.
+   - Destaque para decisões judiciais já proferidas e análise crítica dos fundamentos.
+   - Pedidos de indenização substitutiva e outros direitos.
+
+3. **Principais Documentos e Caminhos**
+   - **Índice de anexos:**
+     - `autodefesa/indice_anexos.txt`
+   - **Lista de provas e pedidos:**
+     - `autodefesa/lista_provas_e_pedidos.txt`
+   - **Pedidos de indenização substitutiva:**
+     - `autodefesa/pedido_indenizacao_substitutiva.txt`
+   - **Quadro de omissões da defesa:**
+     - `autodefesa/quadro_omissoes_atsum.md`
+   - **Corpo do email complementar:**
+     - `autodefesa/corpo_email_complementar.md`
+   - **Modelo de embargo:**
+     - `autodefesa/modelo_embargo`
+   - **Decisões judiciais analisadas:**
+     - `mov-vara/Documento_13c03fa.txt`
+     - `mov-vara/Documento_8122e3e.txt`
+   - **Documentos médicos e ATSum:**
+     - `pdfs/ATSum_1000698-21.2025.5.02.0005_1grau.txt`
+   - **Outros documentos relevantes:**
+     - `pdfs/Aneli.michell.pdf` (convertido para texto)
+     - Demais arquivos convertidos na pasta `pdfs/`
+
+4. **Fluxo de Trabalho Atual**
+   - Extração automatizada de texto de PDFs e imagens via OCR (Tesseract) em WSL Ubuntu 24.04.
+   - Organização dos arquivos de texto e PDFs na pasta `pdfs/` para análise e referência.
+   - Utilização do VSCode/Windsurf para edição, análise e versionamento dos documentos.
+   - Backup e versionamento via Git, branch `wsl-backup`.
+
+5. **Próximos Passos Sugeridos**
+   - Analisar e complementar argumentos com base nos textos extraídos.
+   - Preparar petições e embargos conforme modelos e decisões já analisadas.
+   - Manter organização dos documentos e atualizar este resumo conforme o avanço do processo.
+
+---
+
+**Este arquivo pode ser atualizado e utilizado como referência inicial em novos chats Cascade, evitando repetições e facilitando a continuidade do trabalho jurídico.**

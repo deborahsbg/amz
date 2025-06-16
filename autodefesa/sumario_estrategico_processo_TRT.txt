@@ -1,0 +1,50 @@
+Sumário Estratégico do Processo TRT
+==================================
+
+Data do sumário: 13/06/2025
+
+Este sumário apresenta uma análise crítica do andamento do processo, estratégias já adotadas, falhas e acertos identificados, além de recomendações fundamentadas na legislação trabalhista vigente.
+
+---
+
+1. **Análises já realizadas**
+   - Revisão detalhada das decisões judiciais e fundamentos apresentados pelo juízo.
+   - Comparação entre provas médicas apresentadas e as omissões da defesa da Amazon.
+   - Levantamento das principais lacunas documentais e omissões de políticas internas da empresa.
+   - Extração e organização de documentos relevantes (PDFs, imagens convertidas via OCR) para embasar petições e recursos.
+   - Sistematização dos pedidos e argumentos em arquivos próprios para facilitar a produção de peças processuais.
+
+2. **Possíveis estratégias para a próxima fase**
+   - Reforçar a argumentação sobre a ausência de análise personalizada de saúde ocupacional, citando o art. 157 da CLT (obrigação do empregador em zelar pela saúde do empregado).
+   - Solicitar perícia médica judicial, caso ainda não tenha sido realizada, para reforçar a veracidade das alegações.
+   - Apresentar quadro comparativo (vide `autodefesa/quadro_omissoes_atsum.md`) demonstrando contradições e omissões da defesa.
+   - Utilizar decisões anteriores como precedente, destacando eventuais nulidades processuais ou cerceamento de defesa.
+   - Incluir pedidos subsidiários, como indenização substitutiva (vide `autodefesa/pedido_indenizacao_substitutiva.txt`).
+
+3. **Falhas e acertos identificados**
+   - **Acertos:**
+     - Organização dos documentos e provas facilita a produção de peças e recursos.
+     - Uso de OCR e automação para agilizar a análise documental.
+     - Sistematização dos pedidos e fundamentos em arquivos separados.
+   - **Falhas:**
+     - Inicialmente, houve dificuldade na integração de ambientes (Windows/WSL), atrasando a extração de provas.
+     - Falta de detalhamento em alguns pedidos e ausência de fundamentação legal explícita em certos pontos.
+     - Necessidade de maior clareza na vinculação entre provas e pedidos (relação direta entre documentos e argumentos).
+
+4. **Recomendações com base legal**
+   - Sempre referenciar dispositivos legais específicos (CLT, CF/88, súmulas do TST) em cada pedido.
+   - Citar o art. 818 da CLT e art. 373 do CPC sobre ônus da prova.
+   - Reforçar o direito à ampla defesa e contraditório (art. 5º, LV, CF/88) em caso de indeferimento de provas.
+   - Apresentar pedidos alternativos e subsidiários para aumentar chances de êxito.
+   - Utilizar precedentes e jurisprudência do TRT e TST para fortalecer argumentos.
+
+5. **Documentos e caminhos de apoio**
+   - Decisões judiciais: `mov-vara/Documento_13c03fa.txt`, `mov-vara/Documento_8122e3e.txt`
+   - Quadro de omissões: `autodefesa/quadro_omissoes_atsum.md`
+   - Lista de provas/pedidos: `autodefesa/lista_provas_e_pedidos.txt`
+   - Petições e modelos: `autodefesa/modelo_embargo`, `autodefesa/corpo_email_complementar.md`
+   - Documentos médicos e laudos: `pdfs/ATSum_1000698-21.2025.5.02.0005_1grau.txt`, demais arquivos convertidos via OCR em `pdfs/`
+
+---
+
+**Este sumário serve como guia estratégico para a continuidade do processo, permitindo retomar o trabalho de forma eficiente e juridicamente fundamentada.**

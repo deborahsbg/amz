@@ -1,0 +1,89 @@
+UNIFICAÇÃO DE CONTEÚDO – PROCESSO TRT
+=====================================
+
+Data: 13/06/2025
+
+Este documento reúne, de forma integrada, os principais pontos, análises, estratégias, recomendações, sumários e modelo de embargo desenvolvidos nas conversas com o GPT/Cascade para o processo trabalhista em trâmite no TRT.
+
+---
+
+1. RESUMO DO PROCESSO E FLUXO DE TRABALHO
+------------------------------------------
+Resumo dos fatos, argumentos, provas, decisões e estrutura de organização dos arquivos, conforme registrado em:
+- `autodefesa/contexto_resumido_processo_TRT.txt`
+
+2. SUMÁRIO ESTRATÉGICO E RECOMENDAÇÕES
+---------------------------------------
+Análise crítica do andamento do processo, estratégias já adotadas, falhas e acertos, recomendações legais e caminhos para continuidade:
+- `autodefesa/sumario_estrategico_processo_TRT.txt`
+
+3. PRINCIPAIS DOCUMENTOS DE REFERÊNCIA
+--------------------------------------
+- Índice de anexos: `autodefesa/indice_anexos.txt`
+- Lista de provas e pedidos: `autodefesa/lista_provas_e_pedidos.txt`
+- Pedidos de indenização substitutiva: `autodefesa/pedido_indenizacao_substitutiva.txt`
+- Quadro de omissões da defesa: `autodefesa/quadro_omissoes_atsum.md`
+- Corpo do email complementar: `autodefesa/corpo_email_complementar.md`
+- Decisões judiciais: `mov-vara/Documento_13c03fa.txt`, `mov-vara/Documento_8122e3e.txt`
+- Documentos médicos e ATSum: `pdfs/ATSum_1000698-21.2025.5.02.0005_1grau.txt`, demais arquivos convertidos via OCR em `pdfs/`
+
+4. ANÁLISES ESTRATÉGICAS E SUGESTÕES DE MELHORIA
+-------------------------------------------------
+- Organização dos documentos e provas facilita a produção de peças e recursos.
+- Uso de OCR e automação para agilizar a análise documental.
+- Reforçar a argumentação sobre ausência de análise personalizada de saúde ocupacional (art. 157 da CLT).
+- Solicitar perícia médica judicial, se necessário.
+- Apresentar quadro comparativo de omissões da defesa.
+- Utilizar precedentes e jurisprudência do TRT/TST.
+- Sempre referenciar dispositivos legais específicos (CLT, CF/88, CPC, súmulas do TST).
+- Apresentar pedidos alternativos e subsidiários.
+
+5. MODELO DE EMBARGO DE DECLARAÇÃO
+-----------------------------------
+Conteúdo extraído de `autodefesa/modelo_embargo`:
+
+---
+
+EXCELENTÍSSIMO(A) SENHOR(A) JUIZ(A) DO TRABALHO DA 5ª VARA DO TRABALHO DE SÃO PAULO – TRT DA 2ª REGIÃO
+Processo nº 1000698-21.2025.5.02.0005
+Embargante: DEBORAH EL ALAM SBEGHEN
+Embargada: AMAZON SERVIÇOS DE VAREJO DO BRASIL LTDA.
+
+EMBARGOS DE DECLARAÇÃO
+
+A Autora, ora Embargante, já devidamente qualificada nos autos do processo em epígrafe, vem, no prazo legal, com fulcro no artigo 897-A da CLT c/c artigo 1.022 do CPC, opor os presentes:
+
+EMBARGOS DE DECLARAÇÃO
+
+em face da respeitável sentença de mérito proferida nos autos, pelos motivos de fato e de direito que passa a expor:
+
+1. DA TEMPESTIVIDADE
+A sentença foi publicada em __/__/____, sendo os presentes embargos tempestivos, conforme prazo legal de 5 (cinco) dias úteis, nos termos da CLT e CPC.
+
+2. DAS OMISSÕES, CONTRADIÇÕES E OBSCURIDADES NA SENTENÇA
+A sentença proferida incorre em omissão e contradição, nos seguintes pontos fundamentais para o deslinde da controvérsia:
+
+2.1 Ausência de advertência formal e falta de gradação da pena
+A Reclamante foi demitida por justa causa com base em suposta violação de segurança, sem que tenha recebido qualquer advertência prévia, conforme contradição entre o gestor João (que nega advertência) e o SBR (que afirmou haver risco de demissão futura).
+
+2.2 Inexistência de risco real à segurança
+O único “fato” usado como justificativa para a justa causa foi a breve passagem do esposo da Reclamante pelo ambiente, sem compreensão do idioma, sem acesso a informações, nem permanência.
+
+2.3 Omissão na avaliação das condições de trabalho
+A empresa jamais vistoriou o local de trabalho da Reclamante, que arcou com todos os custos de operação remota, sem mobiliário adequado, o que configura descumprimento das obrigações previstas na NR-17 e afronta à dignidade no ambiente de trabalho.
+
+2.4 Transferência irregular de responsabilidade ergonômica
+A Amazon não forneceu equipamento nem realizou qualquer análise ergonômica, transferindo toda a responsabilidade à empregada.
+
+2.5 Abordagem inadequada por colegas e negligência no RH
+Colegas como Aneli e Dani foram autorizadas, ou ao menos não contidas, ao repreenderem a Reclamante de forma hostil, sem respaldo técnico ou jurídico, o que indica omissão da empresa na gestão de conflitos.
+
+2.6 Presunção discriminatória e ausência de isonomia
+Outra empregada (Aneli) trabalhou apenas 3 dias, não foi demitida, enquanto a Reclamante foi desligada com 90 dias de vínculo, sob justificativas frágeis. Tal desproporcionalidade viola o princípio da igualdade de tratamento e revela possível viés pessoal.
+
+2.7 Ocultação de provas por advogados anteriores
+A Reclamante deixou de ter provas essenciais anexadas por omissão técnica dos patronos anteriores, o que enseja prejuízo concreto à ampla defesa e ao contraditório.
+
+---
+
+**Este arquivo unificado pode ser utilizado como referência completa para consultas, produção de peças processuais e continuidade do trabalho jurídico no TRT.**

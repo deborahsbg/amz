@@ -1,0 +1,67 @@
+Visão Estratégica Completa para Embargos
+========================================
+
+Data: 13/06/2025
+
+Este documento consolida as análises, estratégias, falhas, acertos e recomendações para a atuação eficiente no processo trabalhista em curso, servindo como referência para a elaboração de embargos e demais peças.
+
+---
+
+1. Introdução e Contexto do Processo
+------------------------------------
+- Reclamante: Deborah
+- Reclamada: Amazon
+- Objeto: Reconhecimento de vínculo, análise de provas médicas, omissões da defesa, pedidos de indenização e direitos trabalhistas.
+
+2. Quadro de Omissões e Contradições da Defesa
+----------------------------------------------
+- Provas médicas apresentadas e não contestadas de forma eficaz pela defesa.
+- Omissões relevantes na contestação da Amazon, especialmente quanto à personalização de avaliação de saúde e condições de trabalho.
+- Ausência de documentos e políticas internas específicas.
+- Contradições entre documentos apresentados e alegações da empresa.
+
+3. Relação de Provas/Documentos e Fundamentação Legal
+-----------------------------------------------------
+- Decisões judiciais: mov-vara/Documento_13c03fa.txt, mov-vara/Documento_8122e3e.txt
+- Quadro de omissões: autodefesa/quadro_omissoes_atsum.md
+- Lista de provas e pedidos: autodefesa/lista_provas_e_pedidos.txt
+- Petições/modelos: autodefesa/modelo_embargo, autodefesa/corpo_email_complementar.md
+- Documentos médicos e laudos: pdfs/ATSum_1000698-21.2025.5.02.0005_1grau.txt, demais arquivos convertidos via OCR em pdfs/
+- Sempre referenciar dispositivos legais específicos (CLT, CF/88, súmulas do TST) em cada pedido.
+- Citar o art. 818 da CLT e art. 373 do CPC sobre ônus da prova.
+- Reforçar o direito à ampla defesa e contraditório (art. 5º, LV, CF/88) em caso de indeferimento de provas.
+
+4. Argumentação Detalhada para Cada Pedido
+------------------------------------------
+- Relacionar cada prova/documento ao pedido correspondente, citando artigos legais.
+- Reforçar ausência de análise personalizada de saúde ocupacional (art. 157 da CLT).
+- Solicitar perícia médica judicial, caso ainda não tenha sido realizada.
+- Apresentar quadro comparativo demonstrando contradições e omissões da defesa.
+- Utilizar decisões anteriores como precedente, destacando nulidades processuais ou cerceamento de defesa.
+- Incluir pedidos subsidiários, como indenização substitutiva.
+
+5. Riscos, Oportunidades e Recomendações Práticas
+-------------------------------------------------
+- **Acertos:** Organização dos documentos e provas, uso de OCR e automação, sistematização dos pedidos.
+- **Falhas:** Falta de detalhamento em alguns pedidos, ausência de fundamentação legal explícita em certos pontos, necessidade de maior clareza na vinculação entre provas e pedidos.
+- **Riscos:** Indeferimento de provas, perda de prazo, dificuldade de acesso ao sistema.
+- **Oportunidades:** Uso de precedentes e jurisprudência do TRT e TST, pedidos alternativos e subsidiários, reforço do direito à ampla defesa.
+- Recomendações: Sempre anexar comprovantes, manter organização, atualizar resumos e quadros, protocolar pedidos dentro do prazo.
+
+6. Modelos de Peças e Caminhos para Anexos
+------------------------------------------
+- Modelos de embargos e petições: autodefesa/modelo_embargo, autodefesa/corpo_email_complementar.md
+- Índice de anexos: autodefesa/indice_anexos.txt
+- Lista de provas: autodefesa/lista_provas_e_pedidos.txt
+
+7. Checklist de Próximos Passos e Prazos
+----------------------------------------
+- [ ] Protocolar embargo até XX/XX/2025
+- [ ] Solicitar perícia médica, se cabível
+- [ ] Atualizar quadros de omissões e provas
+- [ ] Anexar comprovantes de tentativas de acesso e solicitações
+- [ ] Manter backup e versionamento dos documentos
+
+---
+
+**Este documento serve como guia estratégico para a continuidade do processo, permitindo retomar o trabalho de forma eficiente, fundamentada e organizada.**

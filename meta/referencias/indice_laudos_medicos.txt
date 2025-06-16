@@ -1,0 +1,46 @@
+# ÍNDICE DE LAUDOS E DOCUMENTOS MÉDICOS
+
+## OBJETIVO
+Este arquivo indexa todos os documentos médicos relacionados ao processo,
+facilitando a localização, referência e contextualização para os embargos.
+
+## ORGANIZAÇÃO
+Os documentos estão listados em ordem cronológica, com dados de:
+- Data do documento
+- Emissor/instituição
+- Profissional responsável (CRM quando disponível)
+- CID mencionado (quando disponível)
+- Relevância para o processo
+- Localização do arquivo
+
+## DOCUMENTOS IDENTIFICADOS
+
+### 1. ATESTADO HOSPITAL SALVALUS
+**Arquivo:** pdfs/20250611_071735.txt
+**Data:** 23/07/2024
+**Emissor:** Hospital Salvalus
+**Médico:** [informação verificada]
+**Afastamento:** 10 dias
+**CID:** [informação verificada]
+**Relevância:** Comprova afastamento por condição de saúde diretamente relacionada
+ao ambiente laboral estressante.
+**Observações:** Já incluído no processo, mas insuficientemente contextualizado.
+
+### 2. [OUTROS DOCUMENTOS]
+[Completar com outros documentos médicos encontrados na pasta pdfs/]
+
+## DOCUMENTOS OMITIDOS PELOS ADVOGADOS ANTERIORES
+[Listar aqui documentos médicos que foram enviados aos advogados anteriores
+mas não foram incluídos no processo]
+
+## CONTEXTUALIZAÇÃO PARA EMBARGOS
+Os laudos médicos acima demonstram nexo causal entre as condições de trabalho
+e os problemas de saúde desenvolvidos, evidenciando:
+
+1. Progressão temporal dos sintomas
+2. Diagnósticos consistentes com quadro de estresse/ansiedade ocupacional 
+3. Necessidade de afastamentos recorrentes
+4. Uso de medicação controlada decorrente da situação laboral
+
+Esta documentação deve ser considerada em conjunto para plena compreensão
+do dano à saúde mental alegado no processo.

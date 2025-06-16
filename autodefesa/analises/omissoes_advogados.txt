@@ -1,0 +1,72 @@
+# ANÁLISE DE OMISSÕES DOS ADVOGADOS ANTERIORES
+
+## OBJETIVO
+Este documento registra e analisa as omissões dos advogados anteriores, evidenciando
+o prejuízo processual causado à defesa e fundamentando o pedido de juntada tardia
+de documentos essenciais.
+
+## CATEGORIAS DE OMISSÕES
+
+### 1. OMISSÃO DE JUNTADA DE DOCUMENTOS ESSENCIAIS
+
+#### Documentos Médicos
+- **O que foi omitido:** [Especificar documentos médicos enviados e não juntados]
+- **Evidência da omissão:** [Referência a emails/comunicações provando o envio]
+- **Prejuízo causado:** Impossibilidade de demonstrar nexo causal entre condições de trabalho e adoecimento
+- **Base legal para correção:** Art. 223, §§ 1º e 2º do CPC (justa causa para ato processual)
+
+#### Comunicações Digitais
+- **O que foi omitido:** [Especificar prints/comunicações enviados e não juntados]
+- **Evidência da omissão:** [Referência a emails/comunicações provando o envio]
+- **Prejuízo causado:** Impossibilidade de comprovar situações de assédio e pressão excessiva
+- **Base legal para correção:** Princípio da ampla defesa e busca da verdade real
+
+### 2. FALHAS NA ARGUMENTAÇÃO JURÍDICA
+
+#### Inversão do Ônus da Prova
+- **O que foi omitido:** Ausência de fundamentação adequada para inversão do ônus probatório
+- **Como deveria ter sido:** Argumentação baseada no art. 373, §1º do CPC, demonstrando impossibilidade/extrema dificuldade de produção probatória
+- **Prejuízo causado:** Manutenção indevida do ônus probatório com a parte hipossuficiente
+- **Base legal para correção:** Art. 373, §1º do CPC e art. 818, §1º da CLT
+
+#### Contextualização das Provas
+- **O que foi omitido:** Ausência de vinculação clara entre as provas apresentadas e os fatos alegados
+- **Como deveria ter sido:** Apresentação didática relacionando cada prova aos fatos e pedidos correspondentes
+- **Prejuízo causado:** Desvalorização das provas por falta de contextualização adequada
+- **Base legal para correção:** Princípio da cooperação processual (art. 6º do CPC)
+
+### 3. FALHAS PROCESSUAIS
+
+#### Perícia Técnica
+- **O que foi omitido:** Ausência de pedido adequado de perícia técnica
+- **Como deveria ter sido:** Pedido específico de perícia para avaliação de condições de trabalho/saúde
+- **Prejuízo causado:** Impossibilidade de comprovação técnica dos danos alegados
+- **Base legal para correção:** Art. 464 e seguintes do CPC
+
+#### Exibição de Documentos
+- **O que foi omitido:** Não utilização do incidente de exibição de documentos
+- **Como deveria ter sido:** Pedido formal nos termos do art. 396 e seguintes do CPC
+- **Prejuízo causado:** Manutenção dos documentos essenciais sob posse exclusiva da reclamada
+- **Base legal para correção:** Art. 396 a 404 do CPC
+
+## EVIDÊNCIAS DAS OMISSÕES
+
+### Comunicações com os Advogados
+- **Email 1:** [Data] - [Descrição] - [Conteúdo relevante]
+- **Email 2:** [Data] - [Descrição] - [Conteúdo relevante]
+- **WhatsApp:** [Data] - [Descrição] - [Conteúdo relevante]
+
+### Documentos Enviados e Não Juntados
+[Listar aqui os documentos enviados com data e comprovação de envio]
+
+## FUNDAMENTAÇÃO PARA JUNTADA TARDIA
+
+A juntada tardia dos documentos omitidos encontra amparo legal no:
+- Art. 223, §§ 1º e 2º do CPC (justa causa para prática de ato processual)
+- Art. 435 do CPC (juntada posterior de documentos)
+- Art. 765 da CLT (ampla liberdade na direção do processo)
+- Princípio da primazia da realidade e busca da verdade real
+- Princípio da cooperação processual (art. 6º do CPC)
+- Princípio do acesso à justiça (art. 5º, XXXV da CF)
+
+O prejuízo causado à defesa caracteriza cerceamento do direito de defesa, sendo essencial a correção desta falha para garantir o devido processo legal e a ampla defesa.

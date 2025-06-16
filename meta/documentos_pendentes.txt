@@ -1,0 +1,60 @@
+# DOCUMENTOS PENDENTES E PRÓXIMOS PASSOS
+
+## DOCUMENTOS A SEREM CRIADOS
+
+### Documentos Prioritários para Embargos
+- **Tabela consolidada de provas médicas** (autodefesa/tabela_provas/documentos_medicos.txt)
+- **Análise detalhada das omissões da sentença** (autodefesa/analises/omissoes_sentenca.txt)
+- **Cronologia específica de problemas de saúde** (autodefesa/cronologias/cronologia_saude.txt)
+- **Fundamentação jurídica para juntada tardia** (juridico/fundamentacao_juntada_tardia.txt)
+
+### Documentos para Organização do Processo
+- **Checklist de verificação dos embargos** (meta/checklist_embargos.txt)
+- **Bibliografia jurídica e jurisprudência** (juridico/jurisprudencia.txt)
+- **Plano de contingência para recursos** (juridico/plano_recursais.txt)
+
+## ANÁLISES PENDENTES
+
+### Análises Prioritárias
+- Verificação completa dos laudos médicos na pasta pdfs/
+- Categorização de todas as cláusulas abusivas do contrato
+- Correlação entre provas existentes e pedidos específicos
+
+### Análises Secundárias
+- Levantamento de jurisprudência atual sobre inversão do ônus
+- Revisão de precedentes sobre monitoramento eletrônico
+- Análise comparativa com outros casos contra a mesma empresa
+
+## DECISÕES PENDENTES
+
+### Decisões sobre Embargos
+- Complementar os embargos existentes ou apresentar novos?
+- Solicitar juntada tardia dos documentos omitidos?
+- Enfatizar omissões da sentença ou dos advogados anteriores?
+
+### Decisões Estratégicas
+- Preparar argumentação para eventual recurso ordinário?
+- Formalizar reclamação contra advogados anteriores?
+- Expandir pedidos com base em novas evidências?
+
+## PRÓXIMOS PASSOS SUGERIDOS
+
+1. **Finalizar estrutura de pastas e organização**
+   - Completar a transferência dos arquivos para as pastas apropriadas
+   - Verificar nomes e categorização dos documentos
+
+2. **Consolidar evidências disponíveis**
+   - Criar índices completos de todos os documentos disponíveis
+   - Identificar lacunas de informação e provas
+
+3. **Finalizar estratégia para embargos**
+   - Definir abordagem final (complemento ou novo documento)
+   - Preparar fundamentação para juntada tardia de documentos
+
+4. **Atualizar GitHub**
+   - Sincronizar estrutura local com repositório remoto
+   - Configurar .gitignore para arquivos sensíveis
+
+5. **Preparar documentação para PJe**
+   - Converter arquivos necessários para PDF
+   - Organizar anexos conforme limitações do sistema

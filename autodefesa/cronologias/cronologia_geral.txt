@@ -1,0 +1,65 @@
+# CRONOLOGIA GERAL DO CASO
+
+## OBJETIVO
+Este arquivo apresenta uma linha do tempo completa dos principais eventos relacionados
+ao processo, desde a contratação até o presente momento, facilitando a contextualização
+e organização dos fatos.
+
+## FORMATO DA CRONOLOGIA
+**Data** - **Evento** - **Documentos Relacionados** - **Relevância Processual**
+
+## EVENTOS PRÉ-CONTRATAÇÃO E CONTRATAÇÃO
+
+[DATA] - Processo seletivo - [Documentos] - Estabelece expectativas iniciais e promessas
+
+[DATA] - Assinatura do contrato (Terms of Employment) - pdfs/Terms of Employment-grifado.txt - Marco inicial da relação de trabalho, contendo cláusulas potencialmente abusivas
+
+## PERÍODO DE TRABALHO REGULAR
+
+[DATA a DATA] - Fase inicial de trabalho - [Documentos] - Estabelece parâmetro de normalidade antes do agravamento
+
+[DATA] - Início de problemas relatados - [Documentos] - Marco temporal para início da argumentação sobre danos
+
+## PERÍODO DE INTENSIFICAÇÃO DE PROBLEMAS
+
+[DATA] - Primeiro registro de cobrança excessiva - [Comunicações] - Início do padrão de assédio/pressão
+
+[DATA] - Primeira manifestação de problemas de saúde - [Documento médico] - Estabelece nexo temporal entre trabalho e adoecimento
+
+## EVENTOS MÉDICOS
+
+[DATA] - Primeiro atendimento médico relacionado - [Documento] - Início da documentação médica do caso
+
+[DATA] - Afastamento por 10 dias (Hospital Salvalus) - pdfs/20250611_071735.txt - Comprova gravidade da situação e necessidade de afastamento
+
+[DATA] - Início de tratamento psiquiátrico - [Documento] - Demonstra agravamento da condição de saúde mental
+
+## EVENTOS TRABALHISTAS CRÍTICOS
+
+[DATA] - Rescisão contratual - [Documentos rescisórios] - Encerramento formal da relação de trabalho
+
+## FASE PROCESSUAL
+
+30/04/2025 - Ajuizamento da ação trabalhista - Petição Inicial - Marco inicial do processo judicial
+
+[DATA] - Primeira audiência - [Ata] - [Destaques relevantes]
+
+[DATA] - Apresentação de defesa pela Amazon - [Contestação] - [Pontos principais da defesa]
+
+[DATA] - Razões finais - [Documento] - Argumentos finais antes da sentença
+
+[DATA] - Sentença - [Documento] - Decisão judicial com omissões a serem questionadas
+
+[DATA ATUAL] - Preparação de embargos de declaração - manifestacao_embargos.txt - Questionamento das omissões da sentença
+
+## OBSERVAÇÕES IMPORTANTES
+
+- Os principais períodos de intensificação do monitoramento ocorreram entre [DATA] e [DATA]
+- A deterioração da saúde mental pode ser claramente observada a partir de [DATA]
+- Há correlação direta entre os episódios de maior pressão por resultados [DATAS] e os atendimentos médicos [DATAS]
+- A comunicação sobre problemas de saúde à empresa está documentada em [DATA]
+
+## PRÓXIMOS MARCOS PROCESSUAIS
+
+- [DATA LIMITE] - Prazo final para apresentação dos embargos de declaração
+- [ESTIMATIVA] - Previsão para julgamento dos embargos

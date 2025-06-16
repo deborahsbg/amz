@@ -1,0 +1,48 @@
+# ÍNDICE DE DOCUMENTOS CONTRATUAIS
+
+## OBJETIVO
+Este arquivo cataloga todos os documentos relacionados ao vínculo contratual com a Amazon,
+destacando cláusulas relevantes, políticas e normas internas para fundamentação do processo.
+
+## ORGANIZAÇÃO
+Os documentos estão organizados por categoria, com informações sobre:
+- Tipo de documento
+- Data de assinatura/vigência
+- Cláusulas específicas relevantes para o processo
+- Análise preliminar de abusividade/ilegalidade
+- Localização do arquivo
+
+## DOCUMENTOS IDENTIFICADOS
+
+### 1. TERMS OF EMPLOYMENT
+**Arquivo:** pdfs/Terms of Employment-grifado.txt
+**Data:** [data de assinatura]
+**Cláusulas Críticas:**
+- Cláusulas relacionadas a confidencialidade
+- Cláusulas de monitoramento eletrônico
+- Restrições pós-contrato
+- Transferência de responsabilidades
+- Exigências de produtividade
+**Relevância:** Documento base do contrato de trabalho contendo múltiplas cláusulas potencialmente abusivas e limitantes ao exercício de direitos trabalhistas.
+**Observações:** Versão grifada já identifica pontos críticos para argumentação.
+
+### 2. [OUTROS DOCUMENTOS CONTRATUAIS]
+[Completar com outros documentos contratuais encontrados na pasta pdfs/]
+
+## DOCUMENTOS OMITIDOS PELOS ADVOGADOS ANTERIORES
+[Listar aqui documentos contratuais que foram enviados aos advogados anteriores
+mas não foram incluídos no processo]
+
+## ANÁLISE PARA EMBARGOS
+Os documentos contratuais acima demonstram:
+
+1. Imposição unilateral de condições potencialmente abusivas
+2. Restrições desproporcionais à privacidade e autonomia da trabalhadora
+3. Exigências excessivas incompatíveis com a legislação trabalhista brasileira
+4. Mecanismos de controle que extrapolam o poder diretivo do empregador
+5. Cláusulas que dificultam ou impossibilitam a produção de provas pelo empregado
+
+A análise detalhada desses documentos fornece base sólida para os pedidos de:
+- Reconhecimento de nulidade de cláusulas abusivas
+- Inversão do ônus da prova
+- Compensação por danos morais/materiais

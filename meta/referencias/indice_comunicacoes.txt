@@ -1,0 +1,56 @@
+# ÍNDICE DE COMUNICAÇÕES E EVIDÊNCIAS DIGITAIS
+
+## OBJETIVO
+Este arquivo cataloga todas as comunicações digitais (e-mails, WhatsApp, Slack, etc.) 
+relacionadas ao processo, organizando-as por relevância temática e cronologia.
+
+## ORGANIZAÇÃO
+As comunicações estão categorizadas por:
+- Canal de comunicação (WhatsApp, e-mail, Slack, etc.)
+- Data/período
+- Participantes
+- Tema principal
+- Relevância para o processo
+- Localização do arquivo ou status (disponível/indisponível/solicitado)
+
+## COMUNICAÇÕES IDENTIFICADAS
+
+### 1. COMUNICAÇÕES COM SUPERIORES
+**Tipo:** [WhatsApp/Email/etc.]
+**Período:** [datas]
+**Participantes:** [ex: João (gerente direto)]
+**Temas:**
+- Cobranças excessivas
+- Comunicações fora do horário
+- Pressão por resultados
+- Monitoramento constante
+**Disponibilidade:** [disponível/indisponível/solicitado à empresa]
+**Localização:** [arquivo ou indicação de posse pela empresa]
+**Relevância:** Demonstra padrão de assédio, exigências excessivas, comunicações fora do horário de trabalho, violação de direitos de desconexão.
+
+### 2. COMUNICAÇÕES SOBRE PROBLEMAS DE SAÚDE
+[Completar com detalhes das comunicações sobre saúde]
+
+### 3. EMAILS COM ADVOGADOS ANTERIORES
+**Tipo:** Email
+**Período:** [datas]
+**Participantes:** [nome dos advogados]
+**Temas:**
+- Envio de documentação médica
+- Solicitação de inclusão de provas
+- Instruções ignoradas
+**Disponibilidade:** Disponível para juntada
+**Localização:** [pasta onde estão salvos]
+**Relevância:** Comprova que houve omissão deliberada dos advogados anteriores, justificando a necessidade de juntada tardia de documentos essenciais.
+
+## DOCUMENTOS OMITIDOS PELOS ADVOGADOS ANTERIORES
+[Listar aqui comunicações específicas que foram enviadas aos advogados 
+anteriores mas não foram incluídas no processo]
+
+## ESTRATÉGIA PROBATÓRIA
+Para as comunicações ainda sob posse exclusiva da empresa:
+
+1. Solicitar inversão do ônus da prova (art. 373, §1º do CPC)
+2. Requisitar exibição de documento (art. 396 e seguintes do CPC)
+3. Demonstrar a impossibilidade/extrema dificuldade de produção pela reclamante
+4. Indicar elementos de prova que corroboram a existência das comunicações solicitadas
