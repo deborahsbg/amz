@@ -112,14 +112,14 @@ Esta omissão é relevante pois impede a correta apreciação do dano moral e ma
 
 #### 2.2.1 OMISSÃO QUANTO À ANÁLISE DOS ARGUMENTOS E PROVAS DOS ADVOGADOS ANTERIORES
 
-> **Referência cruzada:** Réplica subscrita pela Dra. Rosana (e, se aplicável, Stefano), especialmente quanto à produção de logs, contextualização dos processos citados pela reclamada, fundamentos jurídicos do padrão discriminatório e demais provas documentais.
+> **Referência cruzada:** Réplica subscrita pela Dra. Rosana (e, se aplicável, Dr. Stefano), especialmente quanto à produção de logs, contextualização dos processos citados pela reclamada, fundamentos jurídicos do padrão discriminatório e demais provas documentais.
 
 Ressalto que os presentes embargos **não visam desqualificar ou afastar os argumentos e pedidos já apresentados pelos patronos anteriores**, mas sim **complementar, integrar e dar nexo a todos os fundamentos, provas e pedidos expostos**, de modo a garantir sua apreciação expressa e individualizada pelo juízo.
 
 A sentença foi omissa ao deixar de analisar, de forma expressa e individualizada, os argumentos e provas detalhadamente apresentados pela advogada Dra. Rosana (e Stefano, se for o caso) em minha réplica, especialmente quanto:
 - À contextualização dos processos citados pela reclamada;
 - À fundamentação jurídica do padrão discriminatório praticado pela empresa;
-- Aos pedidos de produção de logs completos dos sistemas internos (Amazon Moments, CSC, Amazon Connect);
+- Aos pedidos de produção de logs completos dos sistemas internos (Amazon Moments, CSC/AC3, Amazon Connect);
 - À análise das provas documentais já anexadas.
 
 **Os embargos ora opostos buscam, portanto, complementar e reforçar a coerência, o nexo e a robustez dos pedidos e fundamentos já apresentados, sem qualquer intenção de desqualificar a atuação dos patronos anteriores, mas sim de garantir a máxima efetividade do contraditório e da ampla defesa.**
@@ -131,7 +131,7 @@ Tal omissão compromete a efetividade do contraditório e da ampla defesa, viola
 
 | Tema/Pedido                                             | O que foi requerido na réplica e manifestações anteriores                      | O que foi ignorado ou tratado de forma obscura na sentença                |
 |--------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| **Produção de logs e registros digitais internos**      | Apresentação dos logs completos dos sistemas internos (Amazon Moments, CSC, Amazon Connect) para comprovar rotina, horários e justificativas. | Não houve análise da importância desses registros nem deferimento do pedido. |
+| **Produção de logs e registros digitais internos**      | Apresentação dos logs completos dos sistemas internos (Chime,Amazon Moments, CSC/AC3, Amazon Connect) para comprovar rotina, horários e justificativas. | Não houve análise da importância desses registros nem deferimento do pedido. |
 | **Contextualização de processos e padrão discriminatório** | Análise detalhada dos processos citados pela reclamada e demonstração de tratamento discriminatório em relação a outros funcionários. | Não houve enfrentamento da fundamentação jurídica nem análise dos documentos correlatos. |
 | **Fundamentação jurídica e provas documentais**         | Apreciação das provas anexadas e fundamentos sobre ausência de processo disciplinar, tratamento diferenciado e nexo causal entre demissão e saúde. | Análise superficial ou inexistente sobre esses pontos essenciais.           |
 | **Inversão do ônus da prova**                          | Pedido de inversão do ônus da prova devido à dificuldade de acesso a provas após a demissão. | Ausência de manifestação expressa sobre a inversão do ônus da prova.       |
