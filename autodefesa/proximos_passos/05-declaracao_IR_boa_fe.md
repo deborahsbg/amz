@@ -1,3 +1,4 @@
+
 # Declaração de Boa-Fé e Situação de Dependência Econômica – IRPF
 
 Declaro, para os devidos fins, que:

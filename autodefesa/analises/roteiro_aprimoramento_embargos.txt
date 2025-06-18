@@ -1,0 +1,30 @@
+# ROTEIRO DE APRIMORAMENTO DOS EMBARGOS FINALIZADOS
+
+## 1. Adicionar seção específica de pedidos finais
+- Listar expressamente cada ponto que requer manifestação judicial
+- Formular pedidos alternativos (caso o juiz não acolha os embargos)
+- Incluir menção à possibilidade de recorrer (preservar direitos)
+* Status: ✅ Já implementado (seção existente nas linhas 922-984)
+
+## 2. Corrigir numeração da seção de danos morais
+- Há uma inconsistência na numeração: temos 2.17.1, 2.17.2 e outro 2.17.2 (Aplicação da Teoria da Concausa) - este segundo 2.17.2 deveria ser 2.17.3
+* Status: ✅ Corrigido - O segundo 2.17.2 foi renumerado para 2.17.3
+
+## 3. Adicionar referência explícita ao recurso ordinário
+- Incluir ressalva de direito a recurso ordinário caso os embargos não sejam acolhidos
+- Prequestionar expressamente os pontos-chave para revisão pelo TRT
+* Status: ✅ Implementado - Adicionado item 11 na seção de pedidos finais com prequestionamento expresso e ressalva do direito ao recurso ordinário
+
+## 4. Verificar consistência das datas
+- Verificar se todas as datas mencionadas estão consistentes (especialmente julho de 2024)
+* Status: ✅ Verificado - As datas estão consistentes:
+  - Demissão: 11/07/2024
+  - Solicitação de licença médica: 09-10/07/2024 (antes da demissão)
+  - Primeiro atestado: 23/07/2024 (12 dias após a demissão)
+  - Laudo psiquiátrico: 12/11/2024
+
+## 5. Revisar seção final e conclusão
+- O documento já possui uma seção de "NEXO CAUSAL ENTRE AS OMISSÕES, CONTRADIÇÕES E OBSCURIDADES DA SENTENÇA E O PREJUIZO AO DIREITO DA EMBARGANTE" (linhas 892-908)
+- Também há uma seção "CONSOLIDAÇÃO DOS PONTOS CENTRAIS" (linhas 912-920)
+- Os pedidos finais estão detalhados entre as linhas 922-980
+* Status: ✅ Adequado

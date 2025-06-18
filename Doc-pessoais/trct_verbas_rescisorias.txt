@@ -1,0 +1,182 @@
+Listagem de Verbas de Rescisão para Conferência
+19/07/2024 13:39
+Empresa: AMAZON SERVICOS DE VAREJO DO BRASIL LTDA
+Local: amazon servicos de varejo VCS
+Folha: MENSALISTAS - AMAZON VCS JAGUARÉ
+CNPJ: 15.436.940/0013-39
+Contratado: DEBORAH SBEGHEN
+Matrícula: 15202
+Data da Rescisão: 11/07/2024
+Centro de Custo: CS Operations - Virtual Location
+Estrutura: 1501
+Última Remuneração: 2.160,00
+Qt. Dep IR: 0
+
+Rubrica: 50 Saldo de Salário
+Qtde. da verba: 3,84
+Verba: 2172 - Atrasos
+Valor: -3,84
+Natureza: Descontos
+Total de Vencimentos: 0,00
+Total de Desconto: 3,84
+Total Líquido: -3,84
+
+Rubrica: 56 Horas Extras
+Qtde. da verba: 7,02
+Verba: 184 - Hora Extra 60% - Mês Ant
+Valor: 134,78
+Natureza: Vencimentos
+Total de Vencimentos: 134,78
+Total de Desconto: 0,00
+Total Líquido: 134,78
+
+Rubrica: 59 Reflexo do DSR sobre Salário Variável
+Qtde. da verba: 0,00
+Verba: 347 - DSR sobre Horas Extras - Mês Anterior
+Valor: 26,96
+Natureza: Vencimentos
+Total de Vencimentos: 26,96
+Total de Desconto: 0,00
+Total Líquido: 26,96
+
+Rubrica: 63 Décimo Terceiro Salário Proporcional
+Qtde. da verba: 0,00
+Verba: 1701 - 13º Salário Rescisão Médias
+Valor: 13,48
+Natureza: Vencimentos
+Total de Vencimentos: 13,48
+Total de Desconto: 0,00
+Total Líquido: 13,48
+
+Rubrica: 65 Férias Proporcionais
+Qtde. da verba: 0,00
+Verba: 1720 - Férias Proporcionais - Médias
+Valor: 13,48
+Natureza: Vencimentos
+Total de Vencimentos: 13,48
+Total de Desconto: 0,00
+Total Líquido: 13,48
+
+Rubrica: 68 Terço Constitucional de Férias
+Qtde. da verba: 0,00
+Verba: 1721 - Férias Proporcionais - Médias 1/3
+Valor: 4,49
+Natureza: Vencimentos
+Total de Vencimentos: 4,49
+Total de Desconto: 0,00
+Total Líquido: 4,49
+
+Rubrica: 112.1 Previdência Social
+Qtde. da verba: 0,00
+Verba: 2103 - INSS Normal
+Valor: 11,84
+Natureza: Descontos
+Total de Vencimentos: 0,00
+Total de Desconto: 11,84
+Total Líquido: -11,84
+
+Rubrica: 112.2 Previdência Social 13º Salário
+Qtde. da verba: 0,00
+Verba: 2097 - INSS 13º Salário Quitação
+Valor: 1,01
+Natureza: Descontos
+Total de Vencimentos: 0,00
+Total de Desconto: 1,01
+Total Líquido: -1,01
+
+Totais do contratado DEBORAH SBEGHEN
+Total de Vencimentos: 189,35
+Total de Desconto: 12,85
+Total Líquido: 176,50
+
+TERMO DE RESCISÃO DE CONTRATO DE TRABALHO
+
+IDENTIFICAÇÃO DO EMPREGADOR
+01 CNPJ/CEI: 15.436.940/0013-39
+02 Razão Social/Nome: AMAZON SERVICOS DE VAREJO DO BRASIL LTDA
+03 Endereço: Avenida Eng Billings, nº 1653 setor 02 predio 13 A
+04 Bairro: Jaguare
+05 Município: São Paulo
+06 UF: SP
+07 CEP: 02321-010
+08 CNAE: 8220200
+09 CNPJ/CEI Tomador/Obra:
+
+IDENTIFICAÇÃO DO TRABALHADOR
+10 PIS/PASEP: 130.69445.85.2
+11 Nome: 15202-DEBORAH SBEGHEN
+12 Endereço: Rua DOUTOR CABRAL DE VASCONCELOS, nº 142 1
+13 Bairro: VILA DOS REMÉDIOS
+14 Município: São Paulo
+15 UF: SP
+16 CEP: 05105-020
+17 CTPS: 49413/123-RJ
+18 CPF: 036.276.056-08
+19 Data de Nascimento: 03/03/1978
+20 Nome da Mãe: ANA DE FÁTIMA ARANTES EL ALAM
+
+DADOS DO CONTRATO
+21 Tipo de Contrato: 3. Contrato de trabalho por prazo determinado sem cláusula assecuratória de direito recíproco de rescisão antecipada
+22 Causa do Afastamento: Rescisão Antecipada, pelo Empregador, do Contrato de Trabalho por Prazo Determinado
+23 Remuneração Mês Ant.: 2.160,00
+24 Data de Admissão: 13/05/2024
+25 Data do Aviso Prévio: 
+26 Data de Afastamento: 11/07/2024
+27 Cód. Afastamento: RA2
+28 Pensão Alim.(%) TRCT: 0,00
+29 Pensão Alim. (%) FGTS: 0,00
+30 Categoria do Trabalhador: 01 Empregado
+31 Código Sindical: 
+32 CNPJ e Nome da Entidade Sindical Laboral: 96.493.622/0001-78 SIND DOS EMPREGADOS NO COM FCO DA ROCHA
+
+DEMONSTRATIVO DE PAGAMENTO
+Mês / Ano: 05/2024
+Nome do Funcionário: DEBORAH SBEGHEN
+Matrícula: 15202
+Cargo: Assistente de Atendimento ao Cliente
+Salário: 2.160,00
+Local: amazon servicos de varejo VCS
+
+Descrição:
+- Salário - Mensalistas: 1.368,00
+- Prog Aj Empregado (EAP): 5,12
+- Gross up Prog Aj Empregado (EAP): 1,94
+- Ajuda Internet: 120,00
+- Contribuição Assistencial: -32,40
+- INSS Normal: -103,12
+- Adiantamento Quinzenal: -547,20
+- Dedução Prog Aj Empregado (EAP): -5,12
+TOTAL LÍQUIDO: 807,22
+
+Base INSS Salário: 1.375,06
+Base Líquida IRRF Sálario: 930,26
+Base de FGTS: 1.375,06
+Valor Dep FGTS: 110,00
+
+DEMONSTRATIVO DE PAGAMENTO
+Mês / Ano: 06/2024
+Nome do Funcionário: DEBORAH SBEGHEN
+Matrícula: 15202
+Cargo: Assistente de Atendimento ao Cliente
+Salário: 2.160,00
+Local: amazon servicos de varejo VCS
+
+Descrição:
+- Salário - Mensalistas: 2.160,00
+- Hora Extra 60% - Mês Ant: 38,02
+- DSR sobre Horas Extras - Mês Anterior: 51,17
+- Hora Extra 100% - Feriado - Mês Anterior: 175,20
+- Prog Aj Empregado (EAP): 5,14
+- Gross up Prog Aj Empregado (EAP): 1,94
+- Ajuda Internet: 120,00
+- Contribuição Assistencial: -32,40
+- INSS Normal: -197,49
+- Atrasos: -1,80
+- Adiantamento Quinzenal: -864,00
+- Dedução Prog Aj Empregado (EAP): -5,14
+TOTAL LÍQUIDO: 1.450,64
+
+Base INSS Salário: 2.429,67
+Base Líquida IRRF Sál: 1.984,87
+Base de FGTS: 2.429,67
+Valor Dep FGTS: 194,37
