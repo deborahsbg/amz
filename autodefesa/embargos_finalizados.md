@@ -151,29 +151,30 @@ Tal omissão comprometeu a apreciação dos fatos e impactou diretamente o resul
 
 > **Referência cruzada:** Quadro cronológico, eventos de Fev-Jun/2024 (adiamento da cirurgia por medo e contexto laboral), 01/07/2024 (remarcação da cirurgia), e Mapa de Provas, itens 2.3, 3.1, 3.2.
 
-Cumpre ressaltar que a defesa anteriormente apresentada — elaborada sob orientação de advogados que não demonstraram interesse em aprofundar a coleta de provas — omitiu fatos essenciais e documentos relevantes para o deslinde da causa. Diversos elementos fundamentais, como episódios de hostilidade, comunicações degradantes, práticas de coaching invasivo, ausência de contraditório, medo e insegurança vividos, bem como a importância das comunicações via WhatsApp e Chime, foram desconsiderados ou tratados de forma superficial, apesar de terem sido relatados e documentados pela reclamante.
+Cumpre ressaltar que a defesa anteriormente apresentada não aprofundou aspectos relevantes para o deslinde da causa. A importância das comunicações via WhatsApp corporativo e Chime não foi devidamente enfatizada, apesar de representarem elementos fundamentais para demonstração do contexto laboral que antecedeu a demissão abrupta da Embargante.
 
-Tal postura resultou em uma defesa filtrada, que não refletiu a totalidade do contexto vivenciado, nem permitiu a devida apreciação do nexo causal entre o ambiente tóxico, a demissão abrupta e o agravamento do quadro de saúde. A resistência em receber e explorar provas, aliada à superficialidade na abordagem dos fatos, prejudicou o exercício pleno do contraditório e da ampla defesa, em afronta ao princípio da busca da verdade real.
+Tal postura resultou em uma defesa limitada, que não possibilitou a devida apreciação do nexo causal entre a demissão abrupta e o agravamento do quadro de saúde da Embargante. A superficialidade na abordagem dos fatos prejudicou o exercício pleno do contraditório e da ampla defesa, em afronta ao princípio da busca da verdade real.
 
-Desde que a parte autora passou a atuar em jus postulandi e revisar pessoalmente os autos, vieram à tona fatos e provas omitidos, como:
-- O isolamento social e o clima de mistério imposto à reclamante;
-- Episódios de hostilidade e comunicação degradante (vide );
-- Práticas de coaching invasivo e repreensões contraditórias (ex: episódio com William Pizaneli, que também foi vítima de condutas similares);
-- Medo extremo de demissão diante de situações banais, mesmo quando agia conforme o sistema permitia;
-- Ausência de advertências formais, feedbacks negativos ou contraditório antes da dispensa;
-- Queda abrupta nas métricas sem explicação e ausência de suporte do gestor;
-- Importância das comunicações via WhatsApp, Chime e e-mails, muitas das quais tornaram-se inacessíveis após a demissão e precisam ser requisitadas judicialmente;
-- A relevância de perícia e quebra de sigilo das comunicações digitais para elucidar os fatos;
-- A omissão de documentos e provas que poderiam comprovar a ciência da empresa sobre o afastamento médico, o sofrimento psíquico e a arbitrariedade da demissão.
+Desde que a Embargante passou a atuar em jus postulandi e revisar pessoalmente os autos, tornou-se evidente a necessidade de requisitar judicialmente elementos probatórios em posse exclusiva da Amazon, tais como:
 
-Requer-se, assim, manifestação expressa do juízo sobre todos os fatos, provas e documentos ora apresentados, inclusive aqueles que foram ignorados ou filtrados na atuação anterior, sob pena de nulidade por cerceamento de defesa e negativa de prestação jurisdicional. Solicita-se, ainda, que seja determinada a produção de prova digital (WhatsApp, Chime, e-mails, métricas, prints) e a inversão do ônus da prova, diante do controle absoluto probatório da reclamada e da hipossuficiência da parte autora.
+- Registros internos do sistema Amazon Moments que comprovariam a solicitação de licença médica realizada pela Embargante nos dias 09-10/07/2024, antes da demissão;
 
-> **Boa-fé, transparência e planejamento:** Ressalto que a autora sempre agiu de forma proativa, transparente e colaborativa, inclusive adiando procedimento cirúrgico, se preparando para o Prime Day, realizando quip compartilhado e comunicando formalmente a empresa sobre todos os fatos relevantes, conforme detalhado na cronologia e comprovado nos anexos.
+- Relatórios de desempenho completos que demonstrariam a queda abrupta nas métricas sem explicação lógica e a ausência de suporte adequado do gestor;
+
+- Comprovante do pedido de adesão ao plano de saúde, realizado dias antes da demissão, conforme mencionado no depoimento testemunhal;
+
+- Logs e registros das comunicações internas via WhatsApp corporativo, Chime () e e-mail que revelam o contexto da demissão e que se tornaram inacessíveis à Embargante após seu desligamento;
+
+- Adicionalmente, embora o Sr. João Zara já tenha admitido em depoimento na primeira audiência que a Embargante nunca recebeu advertências formais, requisita-se o prontuário funcional completo que confirmará a ausência de qualquer procedimento disciplinar anterior à demissão abrupta, reforçando seu caráter discriminatório.
+
+Requer-se, assim, manifestação expressa do juízo sobre todos os fatos, provas e documentos ora apresentados, inclusive aqueles que foram ignorados ou filtrados na atuação anterior, sob pena de nulidade por cerceamento de defesa e negativa de prestação jurisdicional. Solicita-se, ainda, que seja determinada a produção de prova digital (WhatsApp, Chime (chat e reuniões individuais com William, João e Security Bar Raiser), e-mails, métricas de performance, perfil de IA, Amazon Moments, registros de RH, logs de sistema) e a inversão do ônus da prova, diante do controle absoluto probatório da reclamada e da hipossuficiência da parte autora.
+
+**Ressalta-se que a Embargante comprova documentalmente o adiamento do procedimento cirúrgico em decorrência do trabalho e preparativos para o Prime Day, evidenciando seu comprometimento profissional, mesmo em detrimento de sua saúde.**
 
 ---
 
-> Ressalte-se que o comportamento processual da reclamada beira a litigância de má-fé, com reiteradas tentativas de distorcer os fatos, apresentar alegações inverídicas e desviar a atenção do juízo para questões periféricas como o sistema AtoZ, em vez de enfrentar o cerne das denúncias de assédio, discriminação e dano à saúde. Não por acaso, a empresa recorreu a uma representação equivalente ao seu escritório internacional de advogados enroladores e ardilosos, adotando estratégias protelatórias e evasivas típicas de grandes corporações que buscam obscurecer os fatos essenciais do processo. Tal postura apenas reforça a necessidade de atuação judicial firme e imparcial, capaz de superar manobras processuais e garantir a efetividade da prestação jurisdicional.
-
+> Ressalte-se que o comportamento processual da reclamada beira a litigância de má-fé, com reiteradas tentativas de distorcer os fatos, apresentar alegações inverídicas e desviar a atenção do juízo para questões periféricas como o sistema AtoZ, em vez de enfrentar o cerne das denúncias de discriminação e dano à saúde. Tal postura apenas reforça a necessidade de atuação judicial firme e imparcial, capaz de superar manobras processuais e garantir a efetividade da prestação jurisdicional.
+s 
 **Sobre a litigância de má-fé e condutas abusivas**
 
 A conduta processual da reclamada e de sua representação extrapola o uso legítimo dos meios de defesa, caracterizando verdadeira litigância de má-fé. Como reconhece a doutrina:
@@ -181,21 +182,21 @@ A conduta processual da reclamada e de sua representação extrapola o uso legí
 > “A litigância de má-fé se configura não apenas pelo uso de recursos protelatórios, mas também por condutas que visam deliberadamente confundir o juízo, ocultar fatos relevantes ou desviar o debate do mérito para questões periféricas, em flagrante afronta ao princípio da boa-fé objetiva.”  
 > (Fredie Didier Jr., Curso de Direito Processual Civil, v. 1, 2023)
 
-No presente caso, a reclamada desviou o foco da controvérsia para o sistema AtoZ, quando o relevante era o CSC/AC3 (sistema de atendimento) e, principalmente, o Amazon Moments (agenda interna obrigatória para registro de todas as atividades, pausas, reuniões e justificativas, conforme documentado nos próprios termos da empresa). Essa obrigação era tão rigorosa que, na ausência de justificativa registrada para qualquer diferença entre o CSC/AC3 e a agenda interna, o sistema descontava automaticamente o tempo do salário, como comprovam os documentos de acerto de demissão. Tais registros são revisados pelos Team Managers (TM), afastando qualquer alegação de desconhecimento por parte dos gestores.
+No presente caso, a reclamada desviou o foco da controvérsia para o sistema AtoZ, quando o relevante era o CSC/AC3 (sistema de atendimento) e, principalmente, o **Amazon Moments** (agenda interna obrigatória para registro de todas as atividades, pausas, reuniões e justificativas, conforme documentado nos próprios termos da empresa e elucidados pela Dra. Rosana - Amazon Connect). Essa obrigação era tão rigorosa que, na ausência de justificativa registrada para qualquer diferença entre o CSC/AC3 e a agenda interna, o sistema descontava automaticamente o tempo do salário, como comprovam os documentos de acerto de demissão. Tais registros são revisados pelos Team Managers (TM), afastando qualquer alegação de desconhecimento por parte dos gestores.
 
-A estratégia da reclamada — e de sua defesa — foi apresentar documentos incompletos, manipular o foco para sistemas secundários, omitir comunicações essenciais (WhatsApp, Amazon Moments, Amazon Connect) e sustentar versões incompatíveis com a documentação constante nos autos. Tal conduta está vedada pelo art. 80, incisos III, V e VII, do CPC, art. 818 da CLT, art. 373, §1º, do CPC, além dos princípios da boa-fé e cooperação processual (art. 6º, CPC), e encontra rechaço na jurisprudência:
+A estratégia da reclamada — e de sua defesa — foi apresentar documentos incompletos, manipular o foco para sistemas secundários, omitir comunicações essenciais (WhatsApp, Chime, Amazon Moments, Amazon Connect) e sustentar versões incompatíveis com a documentação constante nos autos. Tal conduta está vedada pelo art. 80, incisos III, V e VII, do CPC, art. 818 da CLT, art. 373, §1º, do CPC, além dos princípios da boa-fé e cooperação processual (art. 6º, CPC), e encontra rechaço na jurisprudência:
 
 > “Caracteriza litigância de má-fé a conduta da parte que, de forma deliberada, apresenta alegações inverídicas, manipula provas ou utiliza o processo para fins protelatórios, desviando o foco do mérito e prejudicando a efetividade da prestação jurisdicional.”  
 > (TRT-2, 1000271-59.2021.5.02.0027, Rel. Des. Ivani Contini Bramante, DEJT 16/08/2023)
 
-No âmbito trabalhista, a ausência de apresentação de provas essenciais — como as comunicações via WhatsApp, registros do Amazon Moments e documentos do Amazon Connect — autoriza a presunção de veracidade das alegações da Reclamante, conforme Súmulas 338 e 433/TST, art. 400 do CPC e art. 818 da CLT.
+No âmbito trabalhista, a ausência de apresentação de provas essenciais — como as comunicações via WhatsApp, Chime, registros do Amazon Moments e documentos do Amazon Connect — autoriza a presunção de veracidade das alegações da Reclamante, conforme Súmulas 338 e 433/TST, art. 400 do CPC e art. 818 da CLT.
 
 Diante disso, requer-se que o juízo reconheça e reprove expressamente tais condutas, determinando a exibição das seguintes provas essenciais:
 
 1. Comunicações via WhatsApp entre a Reclamante e seus supervisores (Wellington Silva, William Pizaneli e João Eduardo Zara);
 2. Registros de grupos de WhatsApp da Amazon com os TMs mencionados;
-3. Comunicações com João após a demissão;
-4. Instruções documentadas de Wellington Silva (“Well”) sobre o procedimento de licença médica, que exigia registro prévio no Amazon Moments e, apenas após o retorno da cirurgia, abertura de ticket no AtoZ.
+3. Comunicações whatsapp com João após a demissão;
+4. Instruções documentadas via whatsapp de Wellington Silva (“Well”) sobre o procedimento de licença médica, que exigia registro prévio no Amazon Moments e, apenas após o retorno da cirurgia, abertura de ticket no AtoZ.
 
 O silêncio do juízo sobre estas provas específicas constitui grave omissão, a ser sanada nos presentes embargos, sob pena de presunção de veracidade das alegações da Reclamante.
 
@@ -225,20 +226,26 @@ Esta omissão é relevante pois impede a correta apreciação do dano moral e ma
 
 Ressalte-se que tais argumentos e documentos já foram devidamente apresentados e fundamentados na réplica, especialmente no que tange à natureza multifatorial dos quadros psiquiátricos e à impossibilidade de atribuição exclusiva de causa, conforme destacado pela patrona Rosana. O presente embargo apenas reforça a necessidade de manifestação expressa do juízo sobre fatos e provas já constantes dos autos, sem qualquer inovação ou ampliação do pedido, de modo a afastar eventual alegação de preclusão ou inovação processual.
 
----
-
-
----
 
 ### 2.3 Contradição entre prova documental e depoimento da testemunha da reclamada
 
-Ressalto que o depoimento do gestor João, acolhido como fundamento central da sentença, é frontalmente contradito por provas documentais agora apresentadas:
-- O e-mail de demissão, as políticas VCS juntadas pela própria defesa e as declarações da colega autista (citada pelo gestor) comprovam que havia pleno conhecimento da empresa sobre o afastamento médico e as condições de saúde da autora.fa
+Ressalto que o depoimento do gestor João, acolhido como fundamento central da sentença, é frontalmente contradito por provas documentais constantes nos autos:
+
+- As políticas VCS (Virtual Customer Service) juntadas pela própria defesa nas fls. XX dos autos estabelecem expressamente a obrigação de comunicar afastamentos médicos "tão logo quanto possível" e descrevem o procedimento a ser seguido, incluindo o registro no Amazon Moments e posterior abertura de ticket no sistema AtoZ após o retorno.
+
+- O manual do Amazon Connect, também apresentado pela defesa (fls. XX), contém orientações específicas aos Team Managers (TMs) sobre como gerenciar permissões e licenças médicas, incluindo o monitoramento do Amazon Moments, o que demonstra que os gestores tinham acesso e dever de acompanhamento dessas informações.
+
+- Após o registro da solicitação de licença médica no sistema Amazon Moments (conforme procedimento previamente orientado por Wellington Silva via WhatsApp), o mesmo Wellington Silva (TM) questionou a Embargante via Chime chat privado sobre o motivo dos 5 dias de afastamento requeridos. Esse questionamento comprova inequivocamente que a empresa, através de seus gestores, tinha pleno conhecimento da necessidade de afastamento médico. O e-mail de demissão enviado pelo Sr. João (anexo aos presentes embargos) foi emitido apenas 1 ou 2 dias após essa interação no Chime, evidenciando o nexo temporal entre o pedido de licença médica e a demissão abrupta.
+
 - Tais documentos demonstram que a testemunha faltou com a verdade ao afirmar desconhecimento dos fatos, o que compromete a credibilidade do depoimento e evidencia a necessidade de reanálise da prova.
 
 Requeiro que tais provas sejam expressamente analisadas e que seja reconhecida a contradição entre o depoimento da testemunha e a documentação constante dos autos, para fins de formação do convencimento judicial e garantia do contraditório.
 
-Apesar de todos esses registros terem sido realizados nos sistemas internos da Amazon, esclareço que, diante da demissão abrupta e do bloqueio imediato de todos os acessos, não tive oportunidade de salvar, imprimir ou enviar cópias para meu e-mail pessoal. A urgência e a forma brusca do desligamento impediram qualquer salvaguarda de provas, reforçando minha hipossuficiência probatória e a necessidade de inversão do ônus da prova, pois todos os registros permanecem sob controle exclusivo da reclamada. Requeiro, assim, que o juízo determine à empresa a apresentação dos documentos e registros internos mencionados, sob pena de presunção de veracidade das alegações da autora, nos termos do art. 400 do CPC.
+Ressalta-se que todos os registros supramencionados foram produzidos e armazenados exclusivamente nos sistemas internos corporativos da Reclamada (Amazon Moments, Chime, WhatsApp corporativo e e-mails internos). Com o desligamento abrupto da Embargante e o consequente bloqueio imediato de todos os seus acessos aos sistemas da empresa - conforme comprovado pelo e-mail de demissão anexo que determinou o "desligamento imediato" - configurou-se situação típica de impossibilidade técnica e jurídica de produção probatória por parte da Reclamante.
+
+Esta situação caracteriza hipótese clássica de inversão do ônus da prova, nos termos do art. 818, §1º da CLT e art. 373, §1º do CPC, considerando que: (i) há manifesta impossibilidade de acesso da Embargante às provas; (ii) existe extrema facilidade da empresa em produzi-las; e (iii) os documentos requeridos são essenciais para o deslinde da controvérsia e encontram-se em posse exclusiva da Reclamada.
+
+Dessa forma, requer-se que o juízo determine expressamente à Reclamada a apresentação integral dos documentos e registros internos mencionados, sob pena de presunção relativa de veracidade das alegações da Embargante, conforme art. 400 do CPC, Súmulas 338 e 443 do TST e jurisprudência consolidada sobre a matéria.
 
 ---
 
@@ -286,39 +293,25 @@ Ademais, conforme política interna ("Amazon Benefit"), a empresa se compromete 
 
 Destaco, ainda, que a autora evitou realizar a cirurgia durante os primeiros 30 dias de treinamento por receio de perder o emprego, tendo sido incentivada pelo gestor João, em reunião única durante a contratação, a realizar o procedimento, ocasião em que lhe foram atribuídas funções de confiança e não houve qualquer menção a irregularidades ou insatisfações quanto ao desempenho da autora.
 
-### 2.6 Contradição quanto ao tratamento desigual e assédio horizontal
+### 2.6 Omissão quanto à recusa da reclamada em apresentar documentos e presunção de veracidade
 
-Merece destaque a **flagrante contradição** quanto ao tratamento desigual dispensado à Reclamante. Conforme evidenciado em conversas com a ex-colega Aneli Mitchell (anexas aos autos), enquanto a Reclamante foi demitida abruptamente após solicitar licença médica para cirurgia, a própria Aneli admitiu ter **trabalhado apenas 3 dias em janeiro** sem sofrer qualquer consequência disciplinar:
+A sentença foi omissa ao não se manifestar sobre o requerimento expresso da Embargante quanto à recusa da Reclamada em apresentar documentos internos essenciais para o esclarecimento dos fatos, como registros de afastamento no Amazon Moments, agenda interna e comunicações via Chime e WhatsApp corporativo relativas ao afastamento médico, alegando genericamente questões de sigilo e compliance, sem sequer requerer segredo de justiça. 
 
-> *"Pq se tivesse [relação com licença médica], eu teria sido demitida em janeiro depois de trabalhar só 3 dias no mês"* - Conforme consta em chat com Aneli Mitchell
-
-Esta declaração constitui **prova direta** de que a empresa adotou critérios absolutamente diferentes para situações similares, sendo extremamente tolerante com alguns funcionários (como Aneli, que "cresci bem rápido lá dentro") e injustificadamente rigorosa com a Reclamante.
-
-Além disso, a conversa com Aneli Mitchell evidencia a prática de **assédio horizontal** na Amazon, modalidade em que colegas sem posição hierárquica formal exercem poder e influenciam decisões prejudiciais a outros trabalhadores. Note-se que, ao ser questionada diretamente se participou da demissão da Reclamante ("Ahhh foi tu que me demitiste"), Aneli não negou explicitamente, sugerindo sua influência no processo decisório.
-
-Outro funcionário, **William Pizaneli**, que atuava como suporte da Reclamante, também demonstrou estranhamento com a demissão injustificada, conforme relatado por Aneli:
-
-> *"Então.. o William Pizaneli, que era meu suporte e com quem eu tive bastante fluência, nunca me deu toque... ele estranhou demais porque minhas métricas eram boas..."*
-
-O testemunho do William Pizaneli é crucial por confirmar a qualidade das métricas da Reclamante e expressar estranhamento quanto à demissão abrupta, reforçando a tese de que a motivação real foi discriminatória e relacionada ao pedido de licença médica.
-
-A sentença omitiu-se completamente quanto a essa evidente violação do princípio da isonomia e da dignidade da trabalhadora, ignorando provas diretas de tratamento discriminatório e da existência de ambiente de trabalho tóxico, onde funcionários exerciam vigilância uns sobre os outros fora dos canais formais de feedback e avaliação.
-
-### 2.7 Recusa da reclamada em apresentar documentos, ausência de advertências e presunção de veracidade
-
-A Reclamada, mesmo diante de requerimento expresso, recusou-se a apresentar documentos internos essenciais para o esclarecimento dos fatos, como registros de afastamento, agenda interna e comunicações relativas à cirurgia informada pela autora, alegando sigilo e compliance, mas sem sequer requerer segredo de justiça. Tal conduta afronta o dever de colaboração processual e enseja a aplicação do art. 400 do CPC, presumindo-se verdadeiros os fatos alegados na inicial.
+Tal conduta afronta o dever de colaboração processual previsto no art. 6º do CPC e enseja a aplicação do art. 400 do CPC, que determina serem presumidos verdadeiros os fatos que a parte pretendia provar por meio da exibição do documento ou coisa, quando a recusa for considerada ilegítima.
 
 Ademais, a Reclamada tenta justificar a dispensa com argumentos genéricos de suposta má conduta, sem apresentar qualquer advertência formal, avaliação negativa ou motivação concreta, o que é corroborado pelo depoimento contraditório do gestor, que sequer reconhece ciência da cirurgia previamente comunicada. Destaca-se que a autora sempre cumpriu as regras internas e nunca recebeu advertência ou comunicado de insatisfação.
 
-Diante da recusa da empresa em apresentar documentos e da ausência de elementos objetivos que justifiquem a dispensa, requer-se que sejam presumidos verdadeiros os fatos narrados pela autora, reconhecendo-se a natureza discriminatória da dispensa e o abuso de direito praticado pela reclamada.
+Diante da recusa da empresa em apresentar documentos e da ausência de elementos objetivos que justifiquem a dispensa, requer-se que sejam presumidos verdadeiros os fatos narrados pela Embargante, reconhecendo-se a natureza discriminatória da dispensa e o abuso de direito praticado pela reclamada.
 
-#### 2.7.1 Pedido de exibição de registros e comunicações internas
+---
 
-Considerando todas as evidências já apresentadas, incluindo as declarações contraditórias de gestores e colegas, bem como o tratamento manifestamente desigual evidenciado pela conversa com Aneli Mitchell, requeiro expressamente a **exibição dos seguintes registros internos da Reclamada**, sob pena de confissão ficta (art. 400, CPC) quanto ao conteúdo que seria demonstrado por tais documentos:
+### 2.7 Pedido de exibição de registros e comunicações internas
 
-1. **WhatsApp corporativo**: Conversas entre João (gestor) e demais membros da equipe de RH que mencionem o nome da Reclamante ("dsbeghen", "deborah sbeghen") nos **últimos 10 dias** que antecederam a demissão;
+Considerando todas as evidências já apresentadas, incluindo as declarações contraditórias do gestor e as inconsistências documentais apontadas, requeiro expressamente a **exibição dos seguintes registros internos da Reclamada**, sob pena de confissão ficta (art. 400, CPC) quanto ao conteúdo que seria demonstrado por tais documentos:
 
-2. **Chime (sistema de comunicação interna)**: Mensagens trocadas entre João, Wellington e demais membros da equipe, incluindo Aneli Mitchell, que mencionem a Reclamante nos 10 dias anteriores à demissão;
+1. **WhatsApp corporativo**: Todas as conversas da Reclamante com João (gestor), Wellington Silva e demais membros da equipe e RH, bem como conversas entre estes que mencionem a Reclamante ("dsbeghen", "deborah", "deborah sbeghen", "licença médica", "afastamento") nos **últimos 10 dias** que antecederam a demissão e durante a semana seguinte;
+
+2. **Chime (sistema de comunicação interna)**: Todas as mensagens da Reclamante com João, Wellington e demais membros da equipe, bem como mensagens trocadas entre estes (incluindo Aneli Mitchell que supervisionava um dos grupos) que mencionem a Reclamante nos **últimos 10 dias** que antecederam a demissão e durante a semana seguinte;
 
 3. **Amazon Moments**: Logs completos de atividade, métricas e avaliações da Reclamante, com especial atenção para alterações abruptas não justificadas tecnicamente;
 
@@ -342,17 +335,13 @@ A exibição destes registros é fundamental para comprovar o real motivo da dem
 
 ---
 
-
-
----
-
 ### 2.8 Omissão quanto à queda inexplicável nas métricas
 
 A sentença omitiu-se na análise da queda repentina nas métricas de desempenho da Reclamante, coincidentemente após receber clientes classificados como "abusers", sem qualquer justificativa ou gradação de medidas corretivas por parte da empresa.
 
 ### 2.9 Omissão quanto à hipossuficiência probatória
 
-A sentença ignorou completamente a **impossibilidade da Reclamante produzir certas provas** devido às próprias políticas da empresa, conforme documento "Terms of Employment" já mencionado na fase inicial do processo. Este documento contratual, que deveria ter sido apresentado pela defesa anterior, contém cláusulas que expressamente proíbem:
+A sentença ignorou completamente a **impossibilidade da Reclamante produzir certas provas** devido às próprias políticas da empresa, conforme documento "Terms of Employment" já mencionado na fase inicial do processo e **confirmado em depoimento pela própria testemunha da Reclamada, Sr. João**. Este documento contratual, que deveria ter sido apresentado pela defesa anterior, contém cláusulas que expressamente proíbem:
 
 - Uso de dispositivos de registro e comunicação pessoais durante o trabalho
 - Anotações em papel ou retenção de documentos físicos relacionados às atividades
@@ -392,7 +381,7 @@ Dentre as contradições não apreciadas pela sentença, destacam-se:
 
 3. A testemunha **declarou que a Reclamante teria acesso aos sistemas da Amazon até 7 dias após sua dispensa**, o que viola frontalmente as políticas de compliance e segurança que a própria empresa alega possuir;
 
-4. O supervisor **mencionou apenas a plataforma AtoZ em seu depoimento**, omitindo deliberadamente outras plataformas como o Chime e a agenda interna, onde o apontamento prévio da cirurgia foi devidamente registrado pela Reclamante;
+4. O supervisor **mencionou apenas a plataforma AtoZ em seu depoimento**, omitindo deliberadamente outras plataformas como o Chime e a agenda interna, onde o apontamento prévio da cirurgia foi devidamente comunicado eregistrado pela Reclamante;
 
 5. A ata de audiência (fls. 68-69) registra que a testemunha mencionou **supostos problemas comportamentais durante o treinamento**, mas a escala de trabalho juntada aos autos comprova a **alocação da Reclamante em horários regulares após o período de treinamento**, o que demonstra objetivamente que houve aprovação no treinamento inicial. Esta **flagrante contradição** não foi analisada pela sentença: se a conduta da Reclamante durante o treinamento foi tão grave a ponto de justificar demissão, por que então ela foi aprovada e colocada em trabalho regular? É fato notório que apenas colaboradores aprovados no treinamento são alocados em escala regular de trabalho.
 
@@ -624,7 +613,11 @@ Esta omissão é especialmente grave porque a comprovação do nexo causal entre
 
 A r. sentença incorreu em grave omissão ao ignorar o **fato crucial** de que a Reclamante havia solicitado licença médica e adesão ao plano de saúde nos dias **09-10/07/2024**, ou seja, **imediatamente antes da demissão** ocorrida em 11/07/2024. Este argumento foi **expressamente mencionado pela advogada Dra. Rosana na réplica apresentada**, o que torna ainda mais grave a omissão do juízo ao não considerá-lo em sua decisão.
 
-**IMPORTANTE**: Os registros deste pedido de licença encontram-se exclusivamente no sistema interno da Amazon (A-Z/Amazon Moments), conforme comprovado pelo depoimento testemunhal e pelo próprio contrato de trabalho ("Terms of Employment"), que evidencia a política de confidencialidade e monopólio de acesso a informações pela empresa. Este é precisamente um caso clássico para aplicação da inversão do ônus da prova, justamente porque tais documentos estão em posse exclusiva da Reclamada.
+**IMPORTANTE**: Os registros deste pedido de licença encontram-se exclusivamente no sistema interno da Amazon (Amazon Moments), conforme comprovado pelo documento "Políticas VCS" (juntado pela própria Reclamada em sua defesa, fls. XX), pelo "Manual do Amazon Connect" (apresentado pela defesa anterior da Reclamante, Dra. Rosana, fls. XX) e pelo contrato de trabalho "Terms of Employment" (ora anexado à presente petição). 
+
+Cabe destacar que a testemunha da Reclamada, Sr. João, **estrategicamente direcionou seu depoimento para o sistema AtoZ**, quando os registros solicitados encontram-se no Amazon Moments. Esta manobra é especialmente grave porque, conforme explicado pelo supervisor Wellington Silva à Reclamante via WhatsApp corporativo (comunicação que deve ser exibida pela empresa), sem a abertura formal de licença (prevista no "Amazon Benefits") não se pode abrir ticket no AtoZ, sendo o procedimento correto registrar no Amazon Moments. 
+
+Esta distorção deliberada pela testemunha visa garantir que, na eventual abertura de sigilo da comunicação digital, não seja encontrado registro no AtoZ - já que este não é o sistema correto para o registro inicial da solicitação. Tal conduta reforça a necessidade de inversão do ônus da prova, pois todos os registros relevantes estão em posse exclusiva da Reclamada, que inclusive instruiu sua testemunha a desviar a atenção para um sistema irrelevante no caso concreto.
 
 Esta cronologia, alegada na inicial, reforçada em réplica e passiva de comprovação mediante exibição dos registros internos da empresa, evidencia que:
 
@@ -730,8 +723,9 @@ Diante do exposto, resta inequívoco que a dispensa da autora, em contexto de co
 - A impossibilidade de produção de prova testemunhal decorre do ambiente tóxico, do medo de represálias e da política interna da reclamada, que dificultou o acesso a comunicações e registros.
 
 **b) Sobre a valorização do depoimento do gestor e a desqualificação dos documentos apresentados:**
-- O depoimento do gestor é contradito por documentos internos, e-mails, políticas VCS e pelas conversas espontâneas com a colega Aneli, que revelam conhecimento prévio da empresa sobre a condição de saúde da autora e práticas discriminatórias.
+- O depoimento do gestor é contradito por documentos internos, e-mails, políticas VCS e pelas conversas espontâneas que revelam conhecimento prévio da empresa sobre a condição de saúde da autora e práticas discriminatórias.
 - O gestor desviou o foco do sistema correto (Amazon Moments), e não do AtoZ, como tentou alegar.
+- O gestor afirmou em depoimento (possivelmente não registrado em ata) que um dos motivos da demissão seria o fato da Reclamante estar em contrato de experiência, argumento prontamente rebatido pela Dra. Rosana, pois o contrato de experiência não autoriza demissão discriminatória ou arbitrária, especialmente sem a observância do prazo contratual remanescente de 31 dias.
 
 **c) Sobre a tese de direito potestativo da empresa e rescisão durante o contrato de experiência:**
 - O direito potestativo de dispensa não é absoluto, devendo ser compatibilizado com os princípios constitucionais da dignidade da pessoa humana, não discriminação e proteção à saúde (CF, art. 1º, III; art. 7º, I; Lei 9.029/95; Súmula 443 do TST).
@@ -772,285 +766,29 @@ Ressalte-se que a sentença foi omissa ao deixar de analisar os argumentos e pro
 ---
 
 ### Da contradição entre o depoimento do gestor e a ausência de advertência formal
-Consta expressamente em ata que o suposto episódio considerado inadequado pelo gestor ocorreu “durante o treinamento”, mas também restou consignado que “a reclamante não foi advertida”. Assim, não há nos autos qualquer prova de reprovação formal, advertência ou avaliação negativa que justificasse a dispensa, o que reforça a arbitrariedade do desligamento e a ausência de motivo disciplinar concreto. Requer-se manifestação expressa do juízo sobre essa contradição e a valoração da ausência de advertência formal.
+
+Consta expressamente na ata de audiência que o suposto episódio considerado inadequado pelo gestor ocorreu "durante o treinamento", mas também restou consignado que "a reclamante não foi advertida". Esta contradição flagrante não foi apreciada na sentença embargada.
+
+Deve-se destacar que não há nos autos qualquer prova documental de reprovação formal, advertência escrita ou avaliação negativa registrada nos sistemas internos da empresa que justificasse a dispensa, o que reforça a arbitrariedade do desligamento e evidencia a ausência de justa causa ou motivo disciplinar concreto.
+
+A ausência de advertência formal, admitida pela própria testemunha da Reclamada e não valorada na sentença, constitui omissão relevante que afeta diretamente a conclusão sobre a natureza discriminatória da dispensa, já que demonstra o desrespeito às próprias políticas internas da empresa, que exigem graduação de medidas disciplinares conforme citado anteriormente.
 
 Termos em que,  
 Pede deferimento.
 
-**Não pleiteio honorários de sucumbência neste embargo, atuando em jus postulandi, mas reservo-me o direito de, a qualquer tempo, constituir advogado para representação nos autos.**
+Por todo o exposto, requer-se o conhecimento e provimento dos presentes embargos para sanar as omissões, contradições e obscuridades apontadas.
+
+Termos em que,  
+Pede deferimento.
 
 **São Paulo, 15 de junho de 2025.**
 
 **DEBORAH EL ALAM SBEGHEN**  
-Reclamante – Jus Postulandi (sem advogado)
+Reclamante – Jus Postulandi (Art. 791 da CLT)
 
 ---
 
-### Da postura ativa da parte autora, do dever de prestação jurisdicional e da natureza ilimitada da reparação
 
-Esclareço, para que não paire qualquer dúvida, que a autora, mesmo sem representação por advogado neste momento, **não abriu mão de qualquer direito** e **não renunciou a nenhum pedido** constante dos autos. A substituição dos patronos se deu por razões alheias ao mérito e não implica, de forma alguma, desistência, desinteresse ou anuência com omissões processuais.
-
-**Nota de Boa-Fé e Situação Econômica**
-
-A fim de demonstrar absoluta transparência e boa-fé, informo que minha declaração de Imposto de Renda de Pessoa Física (IRPF) sempre foi realizada pelo Sr. Carlos, em nome próprio, tendo-me como dependente há vários anos, o que pode ser comprovado por meio das declarações e recibos de entrega à Receita Federal. Ressalto que sou casada sob regime de separação de bens, inexistindo obrigação legal do Sr. Carlos de prover meu sustento, o que reforça o caráter voluntário e solidário de seu auxílio econômico. Coloco-me à disposição para apresentar cópias das declarações de IRPF e demais documentos comprobatórios, caso o juízo entenda necessário.
-
----
-
-### Da Fixação do Valor da Indenização: Parâmetros Jurisprudenciais e Internacionais
-
-Com vistas a garantir justiça material, isonomia e efetividade da tutela jurisdicional, requer-se que a indenização por danos morais e materiais seja fixada em patamar compatível com os parâmetros usualmente adotados pelo Tribunal Superior do Trabalho (TST) e pelo Tribunal Regional do Trabalho da 2ª Região (TRT-2) para casos análogos, observando-se:
-
-- O princípio da isonomia (art. 5º, caput, CF), para evitar tratamento discriminatório em relação a outros trabalhadores em situações semelhantes;
-- A função pedagógica e reparatória da indenização, conforme entendimento consolidado dos tribunais superiores;
-- A necessidade de evitar valores simbólicos, insuficientes para reparar o dano e desestimular condutas ilícitas de grandes empregadores;
-- O dever de observância dos precedentes e jurisprudência consolidada (CPC, arts. 489, §1º, VI; 926 e 927);
-
-Destaca-se que a Amazon já foi condenada, em diversas jurisdições internacionais, ao pagamento de indenizações expressivas por violações de direitos trabalhistas e danos à saúde de trabalhadores, conforme amplamente noticiado e documentado. Na ausência de precedentes nacionais específicos para a situação da autora, requer-se que o juízo considere tais parâmetros internacionais como referência, a fim de garantir a efetividade da reparação e o respeito à dignidade da pessoa humana.
-
----
-
-### Da Base de Cálculo Sugerida e Quantificação do Dano
-
-Considerando a complexidade e gravidade dos fatos, propõe-se que a base de cálculo da indenização contemple todo o período de exposição a situações lesivas, desde o início do chamado "reality show" de recrutamento, passando por:
-
-- Geração de expectativas e pressão psicológica já no processo seletivo;
-- Ambiente de trabalho marcado por cobranças excessivas, metas inalcançáveis e ausência de suporte adequado;
-- Episódios de arbitrariedade, ausência de advertência formal, diferenciação de tratamento em relação a outros funcionários;
-- Demissão abrupta e bloqueio de acessos, impedindo a autora de reunir provas e buscar apoio;
-- Agravamento do quadro de saúde física e mental, com diagnóstico de F43.1 (Transtorno de Estresse Pós-Traumático) e F32.2 (Depressão Grave com Ansiedade), culminando em cirurgia e complicações documentadas;
-- Prejuízos familiares, sociais e existenciais, com restrição à convivência, lazer e desenvolvimento pessoal;
-
-A quantificação do dano deve observar:
-- O salário contratual e benefícios, multiplicados pelo tempo de exposição e agravamento;
-- O impacto existencial e familiar reconhecido em precedentes nacionais (TRT-3, 0010113-81.2021.5.03.0094 – R$ 10 mil por dano existencial, somados a outros danos morais/familiares);
-- O caráter pedagógico, considerando o porte econômico da reclamada;
-- A vedação ao enriquecimento ilícito, mas também à reparação simbólica, conforme art. 944, parágrafo único, CC;
-
-**Sugere-se, como parâmetro mínimo, a fixação da indenização global em valor equivalente a pelo menos 12 salários contratuais da autora, acrescidos de indenização específica por dano existencial e familiar, conforme precedentes.**
-
-#### Jurisprudência Nacional Aplicável e Responsabilidade da Empregadora
-
-O reconhecimento do dano existencial e familiar já é consolidado na Justiça do Trabalho, com indenizações fixadas de acordo com a gravidade do contexto e o impacto na vida do trabalhador (TRT-3, 0010113-81.2021.5.03.0094). O empregador responde objetivamente pelos danos decorrentes do vínculo, não podendo transferir a responsabilidade ao plano de saúde contratado (TRT-2, 1000077-33.2022.5.02.0047; TST, precedentes sobre responsabilidade solidária).
-
-Assim, requer-se que a indenização seja fixada em valor compatível com a jurisprudência nacional, considerando a extensão dos danos existenciais, familiares e à saúde, e que se afaste qualquer alegação de culpa exclusiva do plano de saúde, reconhecendo a responsabilidade solidária e objetiva da reclamada.
-
-Ressalte-se, ainda, que quadros psiquiátricos como o Transtorno de Estresse Pós-Traumático (F43.1) e a Depressão Grave com Ansiedade (F32.2) são, em regra, de etiologia multifatorial, podendo ter fatores desencadeantes distintos e se manifestar em momentos subsequentes ao evento traumático inicial. Não obstante, a robusta documentação constante dos autos demonstra clara relação temporal e de agravamento entre a demissão abrupta, o contexto de pressão e isolamento vivenciado no ambiente de trabalho e o surgimento dos sintomas. Ainda que não se possa atribuir à reclamada a integralidade do quadro, é inequívoco que sua conduta contribuiu de forma relevante e determinante para o desencadeamento e/ou agravamento do adoecimento, nos termos do art. 21, I, da Lei 8.213/91 e da Súmula 378 do TST.
-
-Por tais razões, requer-se que a responsabilização da reclamada observe o nexo de causalidade adequado, limitando-se à parcela do dano comprovadamente relacionada à sua conduta, sem prejuízo de eventual apuração de responsabilidade concorrente de outros agentes, como o plano de saúde, em ação própria.
-
----
-
-### Tabela Reparatória do Dano Material e Moral Sofrido
-
-| Fato Gerador / Violação                               | Fundamentação Jurídica / Normativa                        | Base de Cálculo / Memória de Cálculo               | Valor Sugerido (R$) |
-|------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------|---------------------|
-| Privação total de INSS e complemento Amazon Benefits  | CLT, art. 476, art. 7º, XXII, CF; violação ao direito à proteção social e contratual | (R$ 2.100,00 x N meses de afastamento) = R$ X.XXX,XX | (preencher com o número de meses e valor total) |
-| Bloqueio de benefícios: alimentação                  | CLT, art. 458; violação a direitos sociais                | R$ 900,00 x N meses                                 | (preencher)         |
-| Bloqueio de benefícios: internet                     | CLT, art. 458; violação a direitos sociais                | R$ 120,00 x N meses                                 | (preencher)         |
-| Bloqueio de benefícios: plano de saúde (coparticipação) | CLT, art. 458; responsabilidade objetiva                 | Valor estimado de despesas e coparticipações x N meses| (preencher)         |
-| Bloqueio de previdência privada (Icatu)              | CLT, art. 458; violação a direitos previdenciários        | R$ 200,00 x N meses                                 | (preencher)         |
-| Bloqueio de benefícios: alimentação                  | CLT, art. 458; violação a direitos sociais                | R$ 900,00                                             | 900,00              |
-| Bloqueio de benefícios: internet                     | CLT, art. 458; violação a direitos sociais                | R$ 120,00                                             | 120,00              |
-| Bloqueio de benefícios: plano de saúde (coparticipação) | CLT, art. 458; responsabilidade objetiva                 | Valor estimado de despesas e coparticipações         | 300,00              |
-| Bloqueio de previdência privada (Icatu)              | CLT, art. 458; violação a direitos previdenciários        | Valor estimado de contribuição mensal                | 200,00              |
-| Descumprimento de NRs (Normas Regulamentadoras)      | NRs 7, 17, 9, 32; exposição a risco e omissão de cautela | Valor pedagógico                                      | 5.000,00            |
-| Ausência de política ESG efetiva                     | Princípios de ESG, responsabilidade socioambiental        | Valor pedagógico                                      | 5.000,00            |
-| Pressão psicológica desde o reality de recrutamento   | Dano existencial (TRT-3, 0010113-81.2021.5.03.0094)      | Valor pedagógico                                      | 10.000,00           |
-| Prejuízo familiar e social                            | Dano existencial e familiar, art. 223-G, CLT              | Valor pedagógico                                      | 10.000,00           |
-| Agravamento do quadro de saúde (CID F43.1/F32.2)      | Responsabilidade objetiva, art. 932, III, CC              | Valor pedagógico                                      | 20.000,00           |
-| Impedimento de acesso a provas e defesa               | Violação ao contraditório e ampla defesa, art. 5º, LV, CF | Valor pedagógico                                      | 5.000,00            |
-| Discriminação e tratamento desigual                   | Princípio da isonomia, art. 5º, caput, CF                 | Valor pedagógico                                      | 10.000,00           |
-| Ausência de advertência formal                        | CLT, art. 482; violação do devido processo legal          | Valor pedagógico                                      | 5.000,00            |
-| Demissão arbitrária e sem suporte                     | CLT, art. 7º, I, CF; proteção contra dispensa arbitrária  | Valor pedagógico                                      | 15.000,00           |
-| Assédio horizontal comprovado                      | Art. 223-A e seguintes da CLT; jurisprudência TST       | Valor pedagógico considerando precedentes        | 50.000,00           |
-| Tratamento desigual comprovado (caso Aneli)        | Princípio da isonomia, art. 5º, caput, CF              | Comprovação direta de discriminação            | 40.000,00           |
-| Discriminação por condição de saúde                | Lei 9.029/95; Súmula 443 do TST                        | Correlação temporal entre licença e demissão    | 35.000,00           |
-| Uso de pretextos e má-fé na justificação da demissão| Abuso de direito, art. 187, CC                         | Inconsistências nas justificativas apresentadas  | 25.000,00           |
-| **Total (material + moral)**                       | Critério de proporcionalidade e razoabilidade          | Soma dos itens acima                           | **264.999,60**      |
-
-**Total sugerido para reparação do dano material e moral: R$ 264.999,60 (duzentos e sessenta e quatro mil, novecentos e noventa e nove reais e sessenta centavos), valor proporcional ao dano concreto, ao porte da reclamada e à necessidade de resposta efetiva e pedagógica, considerando especialmente o assédio horizontal comprovado e o tratamento flagrantemente desigual.**
-
-#### Justificativa para Majoração do Valor Indenizatório
-
-A majoração do valor inicialmente sugerido justifica-se pela comprovação de elementos adicionais de extrema gravidade:
-
-1. **Assédio Horizontal**: A conversa com Aneli Mitchell comprova a dinâmica de assédio por pares, onde funcionários sem posição hierárquica formal exerciam poder determinante sobre outros, criando um ambiente de trabalho tóxico;
-
-2. **Tratamento Desigual**: A admissão explícita por Aneli de ter trabalhado apenas 3 dias em janeiro sem sofrer consequências, enquanto a Reclamante foi demitida logo após solicitar licença médica;
-
-3. **Contradições nas Justificativas**: As inconsistências nas motivações apresentadas para a demissão, ora alegando um comentário específico, ora mencionando "vários comentários" não especificados;
-
-4. **Gravidade dos Danos à Saúde**: O agravamento comprovado do quadro de saúde física e psíquica, com diagnóstico de F43.1 (Transtorno de Estresse Pós-Traumático) e F32.2 (Depressão Grave com Ansiedade), com nexo causal direto à demissão abrupta e injustificada.
-
-Os valores propostos estão alinhados com a jurisprudência do TST para casos similares envolvendo assédio moral, discriminação e danos psíquicos graves, onde se reconhece a necessidade de indenização robusta com caráter pedagógico, especialmente considerando o porte econômico da Reclamada.
-
----
-
-### Quadro-Resumo de Documentos Já Juntados
-
-| Documento                   | Data        | Descrição/Conteúdo                   | Relevância                  | Localização |
-|-----------------------------|-------------|--------------------------------------|-----------------------------|-------------|
-| CTPS                        | 2025        | Carteira de Trabalho                 | Vínculo empregatício        | Fls. 47     |
-| Comprovante de residência   | 12/2024     | Fatura Vivo/Telefônica               | Endereço                    | Fls. 40-43  |
-| E-mail de contratação       | 03/04/2024  | Condições iniciais                   | Salário, jornada            | Fls. 44-45  |
-| Contrato de trabalho        | -           | Cláusulas restritivas                | Relação contratual          | Referenciado|
-| Carta de demissão           | 11/07/2024  | Rescisão sem justa causa             | Dispensa imotivada          | Fls. 36-39  |
-| Atestado médico             | 23/07/2024  | Afastamento por 10 dias              | Dano à saúde                | Hospital    |
-| Petição inicial             | 30/04/2025  | Reclamação trabalhista               | Base do processo            | Fls. 1-35   |
-| Procuração                  | -           | Nomeação de advogada                 | Representação legal         | Nos autos   |
-| Precedentes judiciais       | 2024/2025   | Casos similares                      | Fundamentação jurídica       | Nos autos   |
-
----
-
-### Quadro-Resumo de Documentos Pendentes
-
-| Documento                    | Status                  | Ação Necessária              | Prioridade | Responsável |
-|------------------------------|-------------------------|------------------------------|------------|-------------|
-| Laudos psicológicos completos| Disponível localmente   | Organizar e relacionar       | Alta       | Deborah     |
-| Exames complementares        | Parcialmente disponível | Solicitar cópias faltantes   | Média      | Deborah     |
-| Relatório médico de nexo     | A elaborar              | Solicitar parecer técnico    | Alta       | Deborah/Advogada |
-| Controle de jornada          | A solicitar             | Requerer apresentação        | Alta       | Advogada    |
-| Políticas internas           | A solicitar             | Requerer acesso              | Média      | Advogada    |
-| E-mails com gestores         | Parcialmente organizados| Filtrar e-mails relevantes   | Alta       | Deborah     |
-| WhatsApp com gestores        | Parcialmente disponíveis| Organizar cronologicamente   | Alta       | Deborah     |
-| Registros de chamadas        | A organizar             | Verificar horários           | Média      | Deborah     |
-
-## NEXO CAUSAL ENTRE AS OMISSÕES, CONTRADIÇÕES E OBSCURIDADES DA SENTENÇA E O PREJUIZO AO DIREITO DA EMBARGANTE
-
-As omissões, contradições e obscuridades apontadas nestes embargos não constituem meras questões formais ou acadêmicas. Ao contrário, **cada uma delas compromete decisivamente a compreensão integral dos fatos e o justo deslinde da controvérsia**. As falhas apontadas possuem relação direta com o resultado do julgamento, pois:
-
-1. A omissão quanto ao **assédio horizontal** e **tratamento desigual** comprovados pela conversa com Aneli Mitchell inviabiliza a adequada compreensão do ambiente tóxico em que a Embargante estava inserida;
-
-2. A omissão quanto à **contradição entre princípios corporativos e penalização por excelência** impossibilita a constatação do abuso de direito e desvio de finalidade na dispensa;
-
-3. A não apreciação da **hipossuficiência probatória** da Embargante, impedida de acessar documentação interna após a demissão, compromete a aplicação do princípio da igualdade de armas no processo;
-
-4. A omissão quanto ao **nexo causal entre a demissão abrupta e os diagnósticos de F43.1 (Transtorno de Estresse Pós-Traumático) e F32.2 (Depressão Grave com Ansiedade)** impede a correta avaliação da extensão dos danos sofridos;
-
-5. A omissão quanto à **credibilidade das plataformas de avaliação corporativa** como elemento de verossimilhança para inversão do ônus da prova, compromete a isonomia processual;
-
-6. A **ausência de manifestação sobre a LGPD** e o direito da Embargante ao acesso aos seus dados pessoais coletados durante o trabalho remoto prejudica seu direito fundamental à autodeterminação informativa.
-
-Por todos estes motivos, os embargos de declaração ora apresentados são essenciais para garantir a efetiva prestação jurisdicional, afastando as obscuridades, contradições e omissões que comprometeram a decisão embargada e impediram o justo enfrentamento das questões substanciais postas em juízo.
-
----
-
-## CONSOLIDAÇÃO DOS PONTOS CENTRAIS
-
-### 1. Contradição do depoimento do gestor João Eduardo Zara
-Toda a argumentação referente à contradição entre o depoimento do gestor João e as provas documentais (e-mail de desligamento, políticas internas, declarações de colegas) está consolidada nesta seção. Reforça-se que o depoimento do gestor foi contradito por documentos anexados, especialmente quanto ao bloqueio imediato de acessos e ciência da empresa sobre o afastamento médico. Nos demais pontos do texto, remete-se a esta seção para evitar repetição.
-
-### 2. Hipossuficiência probatória e inversão do ônus da prova
-A argumentação sobre a hipossuficiência probatória da Embargante, decorrente do bloqueio de acessos e das políticas restritivas da Amazon, está unificada aqui. Todos os pedidos e quadros que tratam da inversão do ônus da prova fazem referência a este bloco, evitando duplicidade de fundamentação.
-
----
-
-## PEDIDOS FINAIS
-
-Diante do exposto, requer:
-
-1. O recebimento e processamento destes embargos de declaração, com fundamento no art. 897-A da CLT e art. 1.022 do CPC;
-
-2. A manifestação expressa e individualizada sobre cada um dos pontos omissos, contraditórios e obscuros apontados nestes embargos, especificamente:
-
-   a) Quanto à secção 2.5.1: manifestação expressa sobre o pedido de exibição de documentos internos da Amazon (WhatsApp, Chime, Amazon Moments e Amazon Connect) relacionados à Embargante;
-   
-   b) Quanto à secção 2.5.2: manifestação expressa sobre o pedido de acesso aos dados pessoais da Embargante com base na LGPD;
-   
-   c) Quanto à secção 2.7: apreciação da contradição entre os princípios corporativos da Amazon e a penalização da Embargante por seguir exemplarmente tais princípios;
-   
-   d) Quanto à secção 2.13: manifestação sobre os indícios de ambiente tóxico já existentes nos autos e sua relevância para o estabelecimento do nexo causal entre o ambiente de trabalho e os danos à saúde da Reclamante;
-   
-   e) Quanto à secção 2.14: apreciação da credibilidade das plataformas de avaliação corporativa como elemento de verossimilhança para fins de inversão do ônus da prova;
-   
-   f) Quanto à secção 2.11: manifestação sobre o agravamento do quadro clínico durante o processo judicial e suas implicações para a quantificação do dano;
-
-3. O reconhecimento da nulidade da sentença caso persistam omissões, contradições ou obscuridades, por negativa de prestação jurisdicional (art. 93, IX, CF; art. 489, CPC);
-
-4. A inversão do ônus da prova (art. 818, § 1º da CLT; art. 373, § 1º do CPC) em razão da hipossuficiência probatória da Embargante, decorrente das políticas restritivas da Amazon que a impediram de reunir provas durante o vínculo, bem como da verossimilhança das alegações corroboradas pelos relatos consistentes em plataformas verificadas;
-
-5. A manifestação judicial expressa sobre a omissão quanto à aplicação dos critérios legais obrigatórios previstos no art. 223-G da CLT para quantificação dos danos morais, especialmente quanto à natureza do bem jurídico tutelado (saúde mental), intensidade do sofrimento (diagnósticos de F43.1 e F32.2), duração dos efeitos da ofensa, condições econômicas das partes e correlação causal entre a demissão abrupta após solicitação de licença médica e a negação do plano de saúde;
-
-6. A apreciação da questão constitucional omitida quanto à limitação da indenização por danos morais prevista no art. 223-G, §1º da CLT, considerando: a) a inconstitucionalidade material dessa tarifação por ofensa ao princípio da isonomia e da reparação integral (art. 5º, V e X da CF); b) os precedentes do STF (incluindo a ADI 5870, ainda pendente de julgamento, mas com sinais de inconstitucionalidade); e c) a jurisprudência consolidada do STJ (Súmula 281) que veda a limitação de indenização por danos morais;
-
-7. A concessão dos benefícios da justiça gratuita, nos termos do art. 5º, LXXIV, CF, e art. 790, §3º, CLT;
-
-8. Que a reclamada (Amazon) seja instada a apresentar, com expressa **inversão do ônus da prova** por se tratarem de documentos em posse exclusiva da empresa (§ 1º do art. 818 da CLT e § 1º do art. 373 do CPC), os seguintes itens:
-   
-   a) Registros do sistema interno A-Z/Amazon Moments que comprovam a solicitação de licença médica realizada pela Embargante nos dias 09-10/07/2024, antes da demissão;
-   
-   b) Relatórios de desempenho completos da Embargante, incluindo as métricas antes e depois da associação com clientes classificados como "abusers" e que demonstram a queda abrupta de métricas sem explicação ou suporte adequado;
-   
-   c) Comprovante do pedido de adesão ao plano de saúde, realizado dias antes da demissão, conforme mencionado no depoimento testemunhal e na réplica da advogada anterior;
-   
-   d) Manual completo do "Amazon Benefits", que detalha os benefícios de complementação salarial durante afastamento por problemas de saúde (70% da diferença entre o INSS e o salário base), cujo acesso foi negado à Embargante após a demissão;
-   
-   e) Logs completos e registros originais de todas as plataformas de comunicação interna (Chime, WhatsApp corporativo, e-mail) mencionando o nome da Embargante nos 10 dias que antecederam sua demissão;
-   
-   f) Relatório de monitoração realizado durante o trabalho remoto da Embargante, incluindo gravações de áudio/vídeo feitas através de seu equipamento de trabalho;
-   
-   g) Documentação integral comprovando a alegada ciencia prévia da Embargante sobre suposto desempenho insatisfatório, incluindo comprovante de entrega e ciência de quaisquer avaliações, advertências ou orientações;
-
-9. A apreciação do nexo causal entre a demissão abrupta da Embargante e o diagnóstico de F43.1 (Transtorno de Estresse Pós-Traumático) e F32.2 (Depressão Grave com Ansiedade), considerando a correlação temporal e os laudos médicos apresentados;
-
-10. O recebimento e juntada aos autos dos seguintes documentos essenciais, com fundamento no art. 435, parágrafo único do CPC:
-   
-   a) "Terms of Employment" da Amazon, que comprova as cláusulas restritivas impostas aos funcionários quanto ao acesso e divulgação de informações internas;
-   
-   b) Email original de demissão enviado pelo Sr. João Zara, que demonstra contradições com seu depoimento em audiência;
-   
-   c) Relatórios médicos do SUS referentes ao período pós-demissão, que documentam o diagnóstico e a evolução dos quadros psiquiátricos;
-
-11. Retificação da sentença no que se refere à indenização prevista pelo artigo 479 da CLT, considerando no cálculo, conforme demonstrado detalhadamente no item 2.15, os seguintes componentes:
-
-   a) 50% do salário base correspondente aos 31 dias faltantes do contrato de experiência;
-   
-   b) 50% do benefício de alimentação (Alelo) no valor de R$ 968,00, proporcional ao período, totalizando R$ 500,19;
-   
-   c) 50% do auxílio internet, proporcional ao período;
-   
-   d) Complementação salarial prevista no programa Amazon Benefits para casos de afastamento por problemas de saúde (70% da diferença entre o INSS e o salário base), benefício do qual a Embargante foi privada pela demissão abrupta ocorrida dias após seu pedido de ingresso no plano de saúde;
-
-   e) Apreciação quanto aos custos de adequação da residência ao trabalho remoto, conforme art. 75-D da CLT.
-   
-   **Total da indenização devida**: R$ 1.678,19, devidamente discriminado em cálculos aritméticos para atender à solicitação da defesa (salvo valores adicionais a serem apurados em liquidação de sentença).
-
-11. **PREQUESTIONAMENTO EXPRESSO**: Para fins de eventual interposição de Recurso Ordinário (art. 895 da CLT), caso os presentes embargos não sejam integralmente acolhidos, a embargante prequestiona expressamente todos os pontos já mencionados, em especial:
-
-   a) A violação aos arts. 93, IX, da Constituição Federal e 489, § 1º, IV do CPC, pela falta de adequada fundamentação ao não analisar provas e documentos essenciais;
-   
-   b) A violação ao art. 818, § 1º da CLT e art. 373, § 1º do CPC, pela não inversão do ônus da prova em situação de hipossuficiência probatória;
-   
-   c) A violação ao art. 479 da CLT, pela interpretação restritiva que desconsiderou a natureza salarial dos benefícios na indenização por rescisão antecipada;
-   
-   d) A violação ao art. 21, I, da Lei nº 8.213/91, pela não aplicação da teoria da concausa na avaliação do nexo causal entre a demissão e os danos à saúde mental;
-   
-   e) A violação à Lei 9.029/95 e Súmula 443 do TST, pela não caracterização da dispensa discriminatória mesmo diante do pedido de licença médica dias antes da demissão;
-   
-   f) A violação ao art. 5º, XXXV e LV da Constituição Federal, pelo cerceamento do direito à produção de provas essenciais ao deslinde da controvérsia.
-   
-**NOTA**: Esta embargante ressalva expressamente seu direito à interposição de Recurso Ordinário após o julgamento destes embargos, para revisão pelo E. TRT da 2ª Região dos pontos não acolhidos, nos termos do art. 895 da CLT.
-
-## PEDIDO DE JUSTIÇA GRATUITA
-
-Em cumprimento ao art. 790, §§ 3º e 4º da CLT, a Embargante requer a concessão dos benefícios da justiça gratuita, por encontrar-se, comprovadamente, em situação de insuficiência de recursos para arcar com custas processuais.
-
-A Embargante anexa aos autos sua Declaração de Imposto de Renda, que comprova sua condição de dependente de pessoa com rendimentos limitados, bem como sua incapacidade financeira de arcar com os custos do processo, incluindo os honorários de sucumbência, sem prejuizo de sua subsistência básica.
-
-**CONTRADIÇÃO NA SENTENÇA**: Verifica-se grave contradição na r. sentença que, embora tenha concedido os benefícios da justiça gratuita à Reclamante, simultaneamente a condenou ao pagamento de honorários de sucumbência de 10%. Esta decisão viola frontalmente o entendimento consolidado pelo STF no julgamento da ADI 5766, que estabeleceu que beneficiários da justiça gratuita não podem ser condenados ao pagamento de honorários sucumbenciais, exceto se obtiverem créditos suficientes em juízo para pagá-los, e mesmo assim limitados a 30% do valor dos créditos. Esta contradição precisa ser sanada para conformar a decisão à jurisprudência vinculante do STF e aos princípios constitucionais de acesso à justiça.
-
-Além disso, conforme demonstrado ao longo do processo e destes embargos, a situação de vulnerabilidade financeira da Embargante foi drasticamente agravada após sua demissão, especialmente em razão dos gastos médicos continuados, o que reforça seu direito à gratuidade judiciária, nos termos da Súmula 463 do TST e do art. 99, § 3º do CPC.
-
-Termos em que,
-Pede deferimento.
-
----
-
-> **Aviso:** As informações, quadros e anexos a seguir são complementares e não integram os pedidos formais já apresentados. Servem para facilitar a análise judicial, detalhar provas e sumarizar dados relevantes.
-
-## Índice de Anexos
-
-Cada documento está acompanhado de sua razão e relevância para o processo.
 
 | Nº / Documento                          | Descrição e Relevância Processual                                                                                  |
 |-----------------------------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -1063,3 +801,18 @@ Cada documento está acompanhado de sua razão e relevância para o processo.
 | 7. Terms of Employment (Contrato de trabalho) | Prova das cláusulas restritivas que impedem funcionários de preservarem provas documentais, corroborando a hipossuficiência probatória da Reclamante. |
 | 8. E-mails enviados a advogados          | Comprovam tentativas de orientação, solicitação de provas e omissões da antiga defesa.                            |
              |
+de) |
+| Réplica da advogada Dra. Rosana | fls. XX | Conteúdo não apreciado na sentença |
+
+**2. Normativas legais citadas para sanar as omissões, contradições e obscuridades:**
+
+- Art. 489, §1º, IV e VI do CPC: Nulidade da sentença por ausência de apreciação de provas e argumentos
+- Art. 818, §1º da CLT: Inversão do ônus da prova em razão da hipossuficiência probatória
+- Art. 373, §1º do CPC: Redistribuição do ônus da prova conforme peculiaridades da causa
+- Art. 5º, LXXIV da CF: Garantia de assistência jurídica integral e gratuita
+- Art. 790, §3º da CLT: Benefício da justiça gratuita aos que comprovarem insuficiência de recursos
+- ADI 5766/STF: Limitador para cobrança de honorários sucumbenciais de beneficiários da justiça gratuita
+- Súmula 463 do TST: Comprovada insuficiência de recursos para conceder benefício da justiça gratuita
+
+**Nota:** As folhas exatas de cada documento devem ser preenchidas antes do protocolo, conforme numeração atual dos autos.
+
